@@ -2,7 +2,18 @@
     ViewBag.Title = "Home Page";
 }
 
-<h2>@ViewBag.Message</h2>
-<p>
-    To learn more about ASP.NET MVC visit <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
-</p>
+<h2>Tonight's Schedule</h2>
+
+<ul>
+@foreach (var channel in Model.Channels)
+{
+    <li>@channel.Key
+        <ul>
+            @foreach (var show in channel.Value.Shows)
+            {
+                <li>@show.StartTime: @show.Name</li>
+            }
+        </ul>
+    </li>
+}
+</ul>

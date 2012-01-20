@@ -1,0 +1,7 @@
+c:\users\scott\documents\visual studio 2010\Projects\MobileTVGuide\MobileTVGuide\bin\MobileTVGuide.dll
+c:\users\scott\documents\visual studio 2010\Projects\MobileTVGuide\MobileTVGuide\bin\MobileTVGuide.pdb
+c:\users\scott\documents\visual studio 2010\Projects\MobileTVGuide\MobileTVGuide\bin\EntityFramework.dll
+c:\users\scott\documents\visual studio 2010\Projects\MobileTVGuide\MobileTVGuide\bin\EntityFramework.xml
+c:\users\scott\documents\visual studio 2010\Projects\MobileTVGuide\MobileTVGuide\obj\Debug\ResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2010\Projects\MobileTVGuide\MobileTVGuide\obj\Debug\MobileTVGuide.dll
+c:\users\scott\documents\visual studio 2010\Projects\MobileTVGuide\MobileTVGuide\obj\Debug\MobileTVGuide.pdb
