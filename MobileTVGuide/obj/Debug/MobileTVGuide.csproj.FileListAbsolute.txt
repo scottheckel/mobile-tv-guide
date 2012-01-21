@@ -5,3 +5,6 @@ c:\users\scott\documents\visual studio 2010\Projects\MobileTVGuide\MobileTVGuide
 c:\users\scott\documents\visual studio 2010\Projects\MobileTVGuide\MobileTVGuide\obj\Debug\ResolveAssemblyReference.cache
 c:\users\scott\documents\visual studio 2010\Projects\MobileTVGuide\MobileTVGuide\obj\Debug\MobileTVGuide.dll
 c:\users\scott\documents\visual studio 2010\Projects\MobileTVGuide\MobileTVGuide\obj\Debug\MobileTVGuide.pdb
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\MobileTVGuide\bin\Newtonsoft.Json.dll
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\MobileTVGuide\bin\Newtonsoft.Json.pdb
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\MobileTVGuide\bin\Newtonsoft.Json.xml

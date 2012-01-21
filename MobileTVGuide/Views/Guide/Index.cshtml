@@ -1,0 +1,21 @@
+﻿@model MobileTVGuide.Models.Guide
+
+@{
+    ViewBag.Title = "Browsing TV Schedule by Channel";
+}
+
+<h1>Browsing by Channel</h1>
+
+<ul>
+@foreach (var channel in Model.Channels)
+{
+    <li>@channel.Key
+        <ul>
+            @foreach (var show in channel.Value.Shows)
+            {
+                <li>@show.StartTime: @show.Name</li>
+            }
+        </ul>
+    </li>
+}
+</ul>

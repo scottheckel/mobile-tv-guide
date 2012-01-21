@@ -13,10 +13,7 @@ namespace MobileTVGuide.Controllers
     {
         public ActionResult Index()
         {
-            ITvGuideService tvGuide = new TvRage();
-            Guide guide = tvGuide.Retrieve();
-
-            return View(guide);
+            return View();
         }
 
         public ActionResult About()

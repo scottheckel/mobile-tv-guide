@@ -1,19 +1,8 @@
 ﻿@{
-    ViewBag.Title = "Home Page";
+    ViewBag.Title = "TV Schedule";
 }
-
-<h2>Tonight's Schedule</h2>
-
+<h1>Browse Schedules</h1>
 <ul>
-@foreach (var channel in Model.Channels)
-{
-    <li>@channel.Key
-        <ul>
-            @foreach (var show in channel.Value.Shows)
-            {
-                <li>@show.StartTime: @show.Name</li>
-            }
-        </ul>
-    </li>
-}
+    <li><a href="guide" id="byChannel">By Channel</a></li>
+    <li><a href="guide" id="byTime">By Time</a></li>
 </ul>
