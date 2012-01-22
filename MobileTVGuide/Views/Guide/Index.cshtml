@@ -6,7 +6,7 @@
 
 <h1>Browsing by Channel</h1>
 
-<ul>
+<ul data-role="listview" data-inset="true" data-filter="true">
 @foreach (var channel in Model.Channels)
 {
     <li>@channel.Key
