@@ -19,7 +19,7 @@
 </head>
 <body>
     <div data-role="page">
-        <header data-role="header">
+        <header data-role="header" data-position="fixed">
             <h1>Mobile TV Schedule</h1>
             <!--<div id="logindisplay">
                 @Html.Partial("_LogOnPartial")
@@ -28,7 +28,7 @@
         <section id="main" data-role="content">
             @RenderBody()
         </section>
-        <footer data-role="footer">
+        <footer data-role="footer" data-position="fixed">
             <nav data-role="navbar">
                 <ul id="menu">
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
