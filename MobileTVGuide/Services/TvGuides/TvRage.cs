@@ -64,7 +64,8 @@ namespace MobileTVGuide.Services.TvGuides
             {
                 ChannelName = channel,
                 Name = showInfo[1],
-                StartTime = timeSlot
+                StartTime = timeSlot,
+                Description = "Episode " + showInfo[2]
             };
 
             var categoryName = shouldCategorizeByChannel ? channel : timeSlot;

@@ -6,16 +6,17 @@
 
 <h1>Browsing by Timeslot</h1>
 
-<ul data-role="listview" data-inset="true">
-@foreach (var channel in Model.Category)
+<ul data-role="listview" data-inset="true" data-filter="true" data-filter-placeholder="Search shows...">
+@foreach (var category in Model.Category)
 {
-    <li>@channel.Key
-        <ul>
-            @foreach (var show in channel.Value.Shows)
-            {
-                <li>@show.ChannelName: @show.Name</li>
-            }
-        </ul>
-    </li>
+    <li data-role="list-divider">@category.Key</li>
+    foreach (var show in category.Value.Shows)
+    {
+        <li>
+            <h2>@show.Name</h2>
+            <p>@show.Description</p>
+            <p class="ui-li-aside">@show.ChannelName</p>
+        </li>
+    }
 }
 </ul>

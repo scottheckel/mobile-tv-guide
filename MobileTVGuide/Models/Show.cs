@@ -13,6 +13,11 @@ namespace MobileTVGuide.Models
         public string ChannelName { get; set; }
 
         /// <summary>
+        /// Description
+        /// </summary>
+        public string Description { get; set; }
+
+        /// <summary>
         /// Show Name
         /// </summary>
         public string Name { get; set; }
