@@ -1,10 +1,10 @@
 ﻿@model MobileTVGuide.Models.Guide
 
 @{
-    ViewBag.Title = "Browsing TV Schedule by Channel";
+    ViewBag.Title = "Browsing TV Schedule by Timeslot";
 }
 
-<h1>Browsing by Channel</h1>
+<h1>Browsing by Timeslot</h1>
 
 <ul data-role="listview" data-inset="true" data-filter="true">
 @foreach (var channel in Model.Category)
@@ -13,7 +13,7 @@
         <ul>
             @foreach (var show in channel.Value.Shows)
             {
-                <li>@show.StartTime: @show.Name</li>
+                <li>@show.ChannelName: @show.Name</li>
             }
         </ul>
     </li>

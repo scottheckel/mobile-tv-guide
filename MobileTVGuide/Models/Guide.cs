@@ -11,9 +11,9 @@ namespace MobileTVGuide.Models
     public class Guide
     {
         /// <summary>
-        /// Channels listed in the Guide
+        /// Category the Guide is broken into current
         /// </summary>
-        public IDictionary<string, Channel> Channels
+        public IDictionary<string, Category> Category
         {
             get;
             internal set;
@@ -24,7 +24,7 @@ namespace MobileTVGuide.Models
         /// </summary>
         public Guide()
         {
-            Channels = new Dictionary<string, Channel>();
+            Category = new Dictionary<string, Category>();
         }
     }
 }

@@ -8,3 +8,13 @@ c:\users\scott\documents\visual studio 2010\Projects\MobileTVGuide\MobileTVGuide
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\MobileTVGuide\bin\Newtonsoft.Json.dll
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\MobileTVGuide\bin\Newtonsoft.Json.pdb
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\MobileTVGuide\bin\Newtonsoft.Json.xml
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\mobile-tv-guide\MobileTVGuide\bin\MobileTVGuide.dll
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\mobile-tv-guide\MobileTVGuide\bin\MobileTVGuide.pdb
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\mobile-tv-guide\MobileTVGuide\bin\EntityFramework.dll
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\mobile-tv-guide\MobileTVGuide\bin\Newtonsoft.Json.dll
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\mobile-tv-guide\MobileTVGuide\bin\EntityFramework.xml
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\mobile-tv-guide\MobileTVGuide\bin\Newtonsoft.Json.pdb
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\mobile-tv-guide\MobileTVGuide\bin\Newtonsoft.Json.xml
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\mobile-tv-guide\MobileTVGuide\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\mobile-tv-guide\MobileTVGuide\obj\Debug\MobileTVGuide.dll
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\mobile-tv-guide\MobileTVGuide\obj\Debug\MobileTVGuide.pdb

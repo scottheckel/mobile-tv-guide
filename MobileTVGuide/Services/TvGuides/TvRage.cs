@@ -12,8 +12,9 @@ namespace MobileTVGuide.Services.TvGuides
     public class TvRage : ITvGuideService
     {
         /// <summary>Retrieve the Schedule form Tv Rage</summary>
+        /// <param name="shouldCategorizeByChannel">True if we should categorize by channel; otherwise, categorize by timeslot</param>
         /// <returns>Populated Guide</returns>
-        public Guide Retrieve()
+        public Guide Retrieve(bool shouldCategorizeByChannel)
         {
             // TODO: Quick and very dirty
 
@@ -40,7 +41,7 @@ namespace MobileTVGuide.Services.TvGuides
                 {
                     if (line.StartsWith("[SHOW]"))
                     {
-                        ParseShow(guide, time, line);
+                        ParseShow(guide, time, line, shouldCategorizeByChannel);
                     }
                     else if (line.StartsWith("[TIME]"))
                     {
@@ -53,24 +54,28 @@ namespace MobileTVGuide.Services.TvGuides
             return guide;
         }
 
-        private static void ParseShow(Guide guide, DateTimeOffset time, string line)
+        private static void ParseShow(Guide guide, DateTimeOffset time, string line, bool shouldCategorizeByChannel)
         {
             var temp = line.Substring(6, line.Length - 13);
             var showInfo = temp.Split('^');
             var channel = showInfo[0];
+            var timeSlot = time.ToString("t");
             var show = new Show
             {
+                ChannelName = channel,
                 Name = showInfo[1],
-                StartTime = time.ToString("t")
+                StartTime = timeSlot
             };
 
+            var categoryName = shouldCategorizeByChannel ? channel : timeSlot;
+
             // Initialize
-            if (!guide.Channels.ContainsKey(channel))
+            if (!guide.Category.ContainsKey(categoryName))
             {
-                guide.Channels.Add(channel, new Channel(channel));
+                guide.Category.Add(categoryName, new Category(categoryName));
             }
 
-            guide.Channels[channel].Shows.Add(show);
+            guide.Category[categoryName].Shows.Add(show);
         }
 
     }

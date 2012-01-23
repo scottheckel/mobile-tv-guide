@@ -16,15 +16,16 @@ namespace MobileTVGuide.Controllers
         public ActionResult Index()
         {
             ITvGuideService tvGuide = new TvRage();
-            Guide guide = tvGuide.Retrieve();
+            Guide guide = tvGuide.Retrieve(true);
             return View(guide);
         }
 
-        public ActionResult IndexAjax()
+        public ActionResult Timeslot()
         {
             ITvGuideService tvGuide = new TvRage();
-            Guide guide = tvGuide.Retrieve();
-            return new JsonNetResult(guide);
+            Guide guide = tvGuide.Retrieve(false);
+            return View(guide);
         }
+
     }
 }

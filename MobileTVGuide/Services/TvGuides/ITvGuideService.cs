@@ -8,6 +8,6 @@ namespace MobileTVGuide.Services.TvGuides
 {
     interface ITvGuideService
     {
-        Guide Retrieve();
+        Guide Retrieve(bool shouldCategorizeByChannel);
     }
 }
