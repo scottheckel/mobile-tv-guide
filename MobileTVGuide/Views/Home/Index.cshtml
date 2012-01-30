@@ -1,8 +1,8 @@
-﻿@{
+@{
     ViewBag.Title = "TV Schedule";
 }
 <h1>Browse Schedules</h1>
 <ul data-role="listview" data-inset="true">
-    <li><a href="guide">By Channel</a></li>
-    <li><a href="guide/timeslot">By Timeslot</a></li>
+    <li>@Html.RouteLink("By Channel", "GuideChannel")</li>
+    <li>@Html.RouteLink("By Timeslot", "GuideTimeslot")</li>
 </ul>
