@@ -1,6 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Web;
 using System.Web.Caching;
 using System.Web.Mvc;
@@ -23,6 +21,18 @@ namespace MobileTVGuide
         public static void RegisterRoutes(RouteCollection routes)
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
+
+            routes.MapRoute(
+                "GuideChannel",
+                "channel",
+                new { controller = "Guide", action = "Channel" }
+            );
+
+            routes.MapRoute(
+                "GuideTimeslot",
+                "timeslot/{startHour}",
+                new {controller = "Guide", action = "Timeslot", startHour = UrlParameter.Optional }
+            );
 
             routes.MapRoute(
                 "Default", // Route name
