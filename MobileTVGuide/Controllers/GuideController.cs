@@ -20,7 +20,7 @@ namespace MobileTVGuide.Controllers
             return View(guide);
         }
 
-        public ActionResult Timeslot()
+        public ActionResult Timeslot(int? startHour)
         {
             ITvGuideService tvGuide = new TvRage();
             Guide guide = tvGuide.Retrieve(false);
