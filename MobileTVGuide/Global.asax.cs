@@ -1,17 +1,20 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Caching;
 using System.Web.Mvc;
 using System.Web.Routing;
+using MobileTVGuide.Models;
+using MobileTVGuide.Services.TvGuides;
 
 namespace MobileTVGuide
 {
-    // Note: For instructions on enabling IIS6 or IIS7 classic mode, 
-    // visit http://go.microsoft.com/?LinkId=9394801
 
     public class MvcApplication : System.Web.HttpApplication
     {
+        private static CacheItemRemovedCallback OnCacheRemoveForCacheTask = null;
+
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
             filters.Add(new HandleErrorAttribute());
@@ -35,6 +38,37 @@ namespace MobileTVGuide
 
             RegisterGlobalFilters(GlobalFilters.Filters);
             RegisterRoutes(RouteTable.Routes);
+
+            AddCacheTask("UpdateGuide", 60);
+        }
+
+        private void AddCacheTask(string key, int seconds)
+        {
+            OnCacheRemoveForCacheTask = new CacheItemRemovedCallback(CacheItemRemovedForCacheTask);
+            HttpRuntime.Cache.Insert(key, seconds, null,
+                DateTime.Now.AddSeconds(seconds), Cache.NoSlidingExpiration,
+                CacheItemPriority.NotRemovable, OnCacheRemoveForCacheTask);
+        }
+
+        /// <summary>
+        /// Execute the task. Called when the cache item is removed.
+        /// </summary>
+        /// <param name="key">Key/Name</param>
+        /// <param name="value">Cycle that this task previously ran at</param>
+        /// <param name="reason">Reason for cache item being removed</param>
+        public void CacheItemRemovedForCacheTask(string key, object value, CacheItemRemovedReason reason)
+        {
+            int secondsToRunAgainAt = Convert.ToInt32(value);
+            if (string.Equals(key, "UpdateGuide", StringComparison.Ordinal))
+            {
+                ITvGuideService tvGuide = new TvRage();
+                Guide guide = tvGuide.Retrieve(true); // SH - this obviously does nothing right now, the next task will make this better
+
+                secondsToRunAgainAt = 3600; // run every hour right now
+            }
+
+            // re-add our task so it recurs
+            AddCacheTask(key, secondsToRunAgainAt);
         }
     }
 }
