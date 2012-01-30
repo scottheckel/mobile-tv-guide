@@ -1,4 +1,4 @@
-﻿@model MobileTVGuide.Models.Guide
+@model MobileTVGuide.Models.Guide
 
 @{
     ViewBag.Title = "Browsing TV Schedule by Timeslot";
@@ -6,7 +6,7 @@
 
 <h1>Browsing by Timeslot</h1>
 
-<ul data-role="listview" data-inset="true" data-filter="true" data-filter-placeholder="Search shows...">
+<ul data-role="listview" data-filter="true" data-filter-placeholder="Search shows...">
 @foreach (var category in Model.Category)
 {
     <li data-role="list-divider">@category.Key</li>
@@ -19,4 +19,14 @@
         </li>
     }
 }
+    <li  class="ui-body ui-body-b">
+        <nav>
+            <!-- TODO: Currently no header -->
+            <ul class="ui-grid-a">
+    	        <li class="ui-block-a"><a href="@Model.PreviousUrl" data-role="button">Previous</a></li>
+		        <li class="ui-block-b"><a href="@Model.NextUrl" data-role="button">Next</a></li>
+            </ul>
+        </nav>
+    </li>
+    
 </ul>
