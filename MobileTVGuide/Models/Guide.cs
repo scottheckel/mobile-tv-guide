@@ -1,7 +1,4 @@
-﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
 namespace MobileTVGuide.Models
 {
@@ -17,6 +14,23 @@ namespace MobileTVGuide.Models
         {
             get;
             internal set;
+        }
+
+        /// <summary>
+        /// Pagination next
+        /// </summary>
+        public string NextUrl
+        {
+            get;
+            set;
+        }
+
+        /// <summary>
+        /// Pagination previous
+        /// </summary>
+        public string PreviousUrl
+        {
+            get; set;
         }
 
         /// <summary>
