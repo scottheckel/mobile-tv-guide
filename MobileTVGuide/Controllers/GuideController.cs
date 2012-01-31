@@ -10,20 +10,22 @@ namespace MobileTVGuide.Controllers
 {
     public class GuideController : Controller
     {
-        //
-        // GET: /Guide/
+        private ITvGuideService guideService;
+
+        public GuideController(ITvGuideService guideService)
+        {
+            this.guideService = guideService;
+        }
 
         public ActionResult Index()
         {
-            ITvGuideService tvGuide = new TvRage();
-            Guide guide = tvGuide.Retrieve(true);
+            Guide guide = guideService.Retrieve(true);
             return View(guide);
         }
 
         public ActionResult Timeslot(int? startHour)
         {
-            ITvGuideService tvGuide = new TvRage();
-            Guide guide = tvGuide.Retrieve(false);
+            Guide guide = guideService.Retrieve(false);
             return View(guide);
         }
 

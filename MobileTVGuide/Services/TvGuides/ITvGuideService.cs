@@ -6,7 +6,7 @@ using MobileTVGuide.Models;
 
 namespace MobileTVGuide.Services.TvGuides
 {
-    interface ITvGuideService
+    public interface ITvGuideService
     {
         Guide Retrieve(bool shouldCategorizeByChannel);
     }

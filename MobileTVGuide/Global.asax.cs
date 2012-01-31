@@ -5,6 +5,7 @@ using System.Web.Mvc;
 using System.Web.Routing;
 using MobileTVGuide.Models;
 using MobileTVGuide.Services.TvGuides;
+using Ninject;
 
 namespace MobileTVGuide
 {
@@ -49,7 +50,16 @@ namespace MobileTVGuide
             RegisterGlobalFilters(GlobalFilters.Filters);
             RegisterRoutes(RouteTable.Routes);
 
+            SetupDependencyInjection();
+
             AddCacheTask("UpdateGuide", 60);
+        }
+
+        public void SetupDependencyInjection()
+        {
+            IKernel kernel = new StandardKernel();
+            kernel.Bind<ITvGuideService>().To<TvRage>();
+            DependencyResolver.SetResolver(new NinjectDependencyResolver(kernel));
         }
 
         private void AddCacheTask(string key, int seconds)
