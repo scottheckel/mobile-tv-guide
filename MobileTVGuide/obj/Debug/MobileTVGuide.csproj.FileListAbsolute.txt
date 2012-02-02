@@ -20,13 +20,11 @@ C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\mobile-tv-gui
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\MobileTVGuide\mobile-tv-guide\MobileTVGuide\obj\Debug\MobileTVGuide.pdb
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\MobileTVGuide.dll
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\MobileTVGuide.pdb
-C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\EntityFramework.dll
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\Newtonsoft.Json.dll
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\Ninject.dll
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\Ninject.Web.Mvc.dll
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\WebActivator.dll
-C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\EntityFramework.xml
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\Newtonsoft.Json.pdb
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\Newtonsoft.Json.xml
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\Ninject.pdb
@@ -36,3 +34,5 @@ C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGui
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\obj\Debug\MobileTVGuide.dll
 C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\obj\Debug\MobileTVGuide.pdb
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\MobileTVLibrary.dll
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVGuide\bin\MobileTVLibrary.pdb

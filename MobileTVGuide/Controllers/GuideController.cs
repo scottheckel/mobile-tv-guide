@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
-using MobileTVGuide.Models;
-using MobileTVGuide.Services.TvGuides;
+﻿using System.Web.Mvc;
+using MobileTVLibrary.Models;
+using MobileTVLibrary.Services.TvGuides;
 
 namespace MobileTVGuide.Controllers
 {

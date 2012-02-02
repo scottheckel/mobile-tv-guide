@@ -3,9 +3,12 @@ using System.Web;
 using System.Web.Caching;
 using System.Web.Mvc;
 using System.Web.Routing;
-using MobileTVGuide.Models;
-using MobileTVGuide.Services.TvGuides;
+using MobileTVLibrary.Models;
+using MobileTVLibrary.Models.Factories;
+using MobileTVLibrary.Repositories;
+using MobileTVLibrary.Services.TvGuides;
 using Ninject;
+using System.Configuration;
 
 namespace MobileTVGuide
 {
@@ -59,6 +62,9 @@ namespace MobileTVGuide
         {
             IKernel kernel = new StandardKernel();
             kernel.Bind<ITvGuideService>().To<TvRage>();
+            kernel.Bind<IFactory<Show>>().To<ShowFactory>();
+            kernel.Bind<IRepository<Show>>().To<SqlShowRepository>()
+                .WithConstructorArgument("connectionString", ConfigurationManager.ConnectionStrings["ScheduleDb"].ConnectionString);
             DependencyResolver.SetResolver(new NinjectDependencyResolver(kernel));
         }
 
