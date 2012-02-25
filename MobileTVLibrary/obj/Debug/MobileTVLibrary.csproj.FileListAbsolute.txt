@@ -1,5 +1,0 @@
-C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVLibrary\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVLibrary\bin\Debug\MobileTVLibrary.dll
-C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVLibrary\bin\Debug\MobileTVLibrary.pdb
-C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVLibrary\obj\Debug\MobileTVLibrary.dll
-C:\Users\Scott\Documents\Visual Studio 2010\Projects\mobile-tv-guide\MobileTVLibrary\obj\Debug\MobileTVLibrary.pdb

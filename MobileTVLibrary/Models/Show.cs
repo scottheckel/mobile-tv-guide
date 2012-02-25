@@ -14,6 +14,11 @@ namespace MobileTVLibrary.Models
         public string Description { get; set; }
 
         /// <summary>
+        /// Show Length (in minutes)
+        /// </summary>
+        public int Length { get; set; }
+
+        /// <summary>
         /// Show Name
         /// </summary>
         public string Name { get; set; }

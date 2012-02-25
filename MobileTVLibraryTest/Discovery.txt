@@ -1,0 +1,2070 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+::::: languages ....................... [ css (ii), javascript (1.+), rss (2.0 -m -e), xhtml (1.0) ]
+::::: processing ...................... [ esi, ssi, xslt (1.0) ]
+::::: developers ...................... [ clewin ] test
+-->
+
+
+<!-- include (SSI) [ esi variables ] -->
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+			
+			
+			
+			
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+        
+
+
+
+
+
+<!-- net = dsc / Discovery Channel; tpbg = #33779e; alias = dsc; path = /tv-schedules/daily.html; -->
+<!-- end include -->
+
+
+<!--
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+SET ESI VARIABLES [ QUERY STRING ]
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-->
+<!-- [ date=YYYYMMDD.JJJ ] -->
+<!--
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+END SET ESI VARIABLES [ QUERY STRING ]
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-->
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="tv, schedules, daily" />
+<meta name="description" content="Daily TV Schedule" />
+
+<meta name="network" content="Discovery Channel" />
+<meta name="launchDate" content="02/12/2007" />
+<meta name="category" content="tvlistings" />
+<meta name="type" content="daily" />
+
+	<title>Discovery Channel :: TV Listings :: Daily Schedule</title>
+
+<link rel="stylesheet" type="text/css" media="screen" href="/common/stylesheets/screen/base.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/tv-schedules/stylesheets/tvlistings.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/tv-schedules/stylesheets/menus.css" />
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/common/stylesheets/screen/base-ie6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/common/stylesheets/screen/base-ie7.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="/utilities/stylesheets/base.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/utilities/stylesheets/tophat.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/layout/google/adsense-for-content.css" />
+
+
+<!-- JAVASCRIPT LIBRARIES + FRAMEWORK + VIDEO BEHAVIORS -->
+<script type="text/javascript" src="/shared/javascript/framework/jquery/jquery-min.js"></script>
+<script type="text/javascript" src="/shared/javascript/unification.js"></script>
+<script type="text/javascript" src="/shared/javascript/framework/swfobject.js"></script>
+<script type="text/javascript" src="/shared/javascript/framework/json.js"></script>
+<script type="text/javascript" src="/shared/javascript/video-playlists.js"></script>
+<script type="text/javascript" src="/shared/javascript/ivideo.js"></script>
+<script type="text/javascript" src="/tv-schedules/javascript/tvlistings.js"></script>
+
+
+<!-- include [ head ] -->
+
+
+
+
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/common/stylesheets/screen/base-ie6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/common/stylesheets/screen/base-ie7.css" /><![endif]-->
+
+
+
+<link rel="icon" type="image/x-icon" href="http://static.discoverymedia.com/shared/images/icons/favicon.ico" />
+
+
+
+<!-- #* head : inc@[dsc.discovery.com%2ftv-schedules%2fdaily.html] : omniture + comScore *# -->
+
+
+
+
+<!-- net:DSC -->
+<script>
+/* <[CDATA[ */
+var omnitureLookupObject = {
+    network:{organization:"us nets",name:"discovery channel",id:"dsc",accounts:"hswproddsc"},
+    taxonomy:{root:"dsc",channel:"",category:"",topic:"",subTopic:"",subTopicBeta:"",subTopicGamma:"",subTopicDelta:""},
+    ia:{primary:"",secondary:"",tertiary:"",quaternary:"",quinary:""},
+    query:{search:""},
+    location:{country:"US",state:"MN",zip:"55101-55129+55133+55144-55146+55155+55161+55164-55166+55168-55172+55175+55177+55187-55188+55191"},
+    asset:{assetType:"",contentType:"",contentName:"",sponsorName:"",source:"dsc",showName:"",publishDate:"",uuid:"00000000-0000-0000-0000-000000000000",cmsCategoryType:"",pageLayoutName:"",contentWidth:"998"},
+    error:""
+}
+/* ]]> */
+</script>
+
+
+
+<script type="text/javascript">/* <![CDATA[ */var utilities={};window.utilities=utilities;utilities={loadScript:function(uri,callback){var head=document.getElementsByTagName("head")[0],script=document.createElement("script");script.src=uri;head.appendChild(script);script.onload=script.onreadystatechange=function(){if(!script.readyState||"loaded"==script.readyState||"complete"==script.readyState){if(typeof callback=="function"){callback();}}};}}
+utilities.loadScript("http://b.scorecardresearch.com/beacon.js",function(){COMSCORE.beacon({c1:2,c2:6036284,c3:"",c4:"",c5:"",c6:"",c15:""});});/* ]]> */</script>
+<noscript><img src="http://b.scorecardresearch.com/b?c1=2&amp;c2=6036284&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" style="display: none;" width="0" height="0" border="0" alt="" /></noscript>
+
+
+
+
+
+
+<!-- end include -->
+
+</head>
+
+<body>
+
+<!--
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CONTAINER [ PRIMARY WRAPPER ] - 0
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-->
+<div id="wrapperPrimary" align="center">
+
+
+<!-- include [ tophat ] -->
+<div id="includeTophat">
+<!-- layout = standard | width = 990 | ad = none | net = dsc -->
+
+<!--tophatforward.html 3-->
+
+		
+
+
+
+<div id="tophat" class="legacy clearlast" align="left">
+        <div id="container-banner-ad" align="center">
+                
+                
+        </div>
+        <dl id="navigation-menu">
+                <dd class="navi-item network-logo">
+                        <a href="/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'logo',position:'0'}); return false;">discovery channel</a>
+                </dd>
+                <dd class="navi-item tv dropdown">
+                        <a href="/show-news/" class="name" class="name" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'0'}); return false;">SHOWS</a>
+                        
+
+
+
+
+
+
+<div class="dropdown-menu-topic">
+        <div class="menu-arrow"></div>
+        <div class="featured">
+                <div class="title">ON TONIGHT <a href="/tv-schedules/daily.html" class="sub-title" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'1'}); return false;">Full Schedule</a></div>
+                <div class="airing">
+<div class="time">7:00PM</div>
+<div class="show">Auction Kings<div class="episode">Declaration of Independence/Concession Wagon</div>
+</div>
+</div>
+<div class="airing">
+<div class="time">7:30PM</div>
+<div class="show">Auction Kings<div class="episode">Happy Days Pinball/Wall of Shame</div>
+</div>
+</div>
+<div class="airing">
+<div class="time">8:00PM</div>
+<div class="show">Auction Kings<div class="episode">Shrunken Head/MLK Letter</div>
+</div>
+</div>
+<div class="airing">
+<div class="time">8:30PM</div>
+<div class="show">Auction Kings<div class="episode">Johnny Cash Guitar/Speed Rug</div>
+</div>
+</div>
+<div class="airing last">
+<div class="time">9:00PM</div>
+<div class="show">Dirty Jobs (Season 6 Repacks)<div class="episode">Dirty Conversations 2</div>
+</div>
+</div>
+
+        </div>
+        <div class="lists">
+                <div class="title">TV SHOWS</div>
+                <dl class="content-list">
+                                                <dd class="column">
+                                                                <p><a href="/tv/all-star-dealers/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">All Star Dealers</a></p><p><a href="/tv/american-chopper/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">American Chopper</a></p><p><a href="/tv/american-guns/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">American Guns</a></p><p><a href="/tv/bering-sea-gold/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Bering Sea Gold</a></p><p><a href="/tv/cash-cab/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Cash Cab</a></p><p><a href="http://curiosity.discovery.com/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Curiosity</a></p><p><a href="/tv/deadliest-catch/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Deadliest Catch</a></p><p><a href="/tv/dirty-jobs/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Dirty Jobs</a></p>                        </dd>
+                                                <dd class="column">
+                                                                <p><a href="/tv/dual-survival/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Dual Survival</a></p><p><a href="/tv/first-week-in/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">First Week In</a></p><p><a href="/tv/flying-wild-alaska/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Flying Wild Alaska</a></p><p><a href="/tv/frozen-planet/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Frozen Planet</a></p><p><a href="/tv/gold-rush-alaska/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Gold Rush</a></p><p><a href="/tv/human-planet/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Human Planet</a></p><p><a href="/tv/life/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Life</a></p><p><a href="/tv/man-vs-wild/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Man Vs Wild</a></p>                        </dd>
+                                                                        <dd class="column">
+                                                                <p><a href="/tv/man-woman-wild/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Man, Woman, Wild</a></p><p><a href="/tv/moonshiners/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Moonshiners</a></p><p><a href="/tv/mythbusters/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">MythBusters</a></p><p><a href="/tv/planet-earth/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Planet Earth</a></p><p><a href="/tv/ragin-cajuns/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Ragin' Cajuns</a></p><p><a href="/tv/shark-week/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Shark Week</a></p><p><a href="/tv/sons-of-guns/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Sons of Guns</a></p><p><a href="/tv/storm-chasers/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Storm Chasers</a></p>                        </dd>
+                                                                        <dd class="column">
+                                                                <p><a href="/tv/swamp-brothers/"  onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Swamp Brothers</a></p><p><a href="/tv/weed-wars/"  onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">Weed Wars</a></p><p><a href="/tv/worlds-toughest-trucker/"  onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'shows',position:'2'}); return false;">World's Toughest Trucker</a></p>                        </dd>
+                                        </dl>
+        </div>
+</div>                </dd>
+                <dd class="navi-item video dropdown">
+                        <a href="/videos/" class="name" class="name" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'0'}); return false;">VIDEO</a>
+                        
+
+
+
+<div class="dropdown-menu-topic">
+        <div class="menu-arrow"></div>
+        <div class="featured">
+                <div class="title">FEATURED VIDEO</div>
+                <div class="primary divider">
+                        <a href="/videos/bering-sea-gold-constipated-sluice-box.html " class="video" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'1'}); return false;">
+                                <span class="thumbnail"><img src="/images/nav/featured-video/constipated-sluice-box-158x88.jpg" alt="Bering Sea Gold: Constipated Sluice Box" /></span>
+                                <span class="overlay-play-button">play</span>
+                        </a>
+                                                <p class="headline">Bering Sea Gold</p>
+                        <p class="detail"><a href="/videos/bering-sea-gold-constipated-sluice-box.html " onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'1'}); return false;"> Constipated Sluice Box</a></p>
+                </div>
+                <div class="secondary">
+                                                <p class="headline">Gold Rush</p>
+                        <p class="detail"><a href="/videos/gold-rush-2011-after-show-videos/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'1'}); return false;"> The Aftershow</a></p>
+                                                <p class="headline">American Chopper</p>
+                        <p class="detail"><a href="/videos/american-chopper-winners-and-losers/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'1'}); return false;"> Winners and Losers</a></p>
+                                                <p class="headline">Sons of Guns</p>
+                        <p class="detail"><a href="/videos/sons-of-guns-wedlock-and-load-videos/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'1'}); return false;"> Wedlock and Load</a></p>
+                                        </div>
+        </div>
+        <div class="lists">
+                <div class="title">MORE VIDEO</div>
+                <dl class="content-list">
+                                                <dd class="column">
+                                                                <p><a href="/videos/all-star-dealers-previews/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">All Star Dealers</a></p><p><a href="/videos/american-chopper-videos/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">American Chopper</a></p><p><a href="/videos/american-guns/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">American Guns</a></p><p><a href="/videos/auction-kings/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Auction Kings</a></p><p><a href="/videos/bering-sea-gold-videos/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Bering Sea Gold</a></p><p><a href="/videos/cash-cab/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Cash Cab</a></p><p><a href="/videos/deadliest-catch/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Deadliest Catch</a></p><p><a href="/videos/dirty-jobs/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Dirty Jobs</a></p>                        </dd>
+                                                <dd class="column">
+                                                                <p><a href="/videos/first-week-in-previews/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">First Week In</a></p><p><a href="/videos/flying-wild-alaska-videos/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Flying Wild Alaska</a></p><p><a href="/videos/frozen-planet/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Frozen Planet</a></p><p><a href="/videos/gold-rush-alaska-videos/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Gold Rush</a></p><p><a href="/videos/human-planet-videos/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Human Planet</a></p><p><a href="/videos/life-videos/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Life</a></p><p><a href="/videos/man-vs-wild/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Man Vs Wild</a></p><p><a href="http://dsc.discovery.com/videos/man-woman-wild-videos/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Man, Woman, Wild</a></p>                        </dd>
+                                                                        <dd class="column">
+                                                                <p><a href="/videos/moonshiners-videos/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Moonshiners</a></p><p><a href="/videos/mythbusters/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">MythBusters</a></p><p><a href="/videos/planet-earth/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Planet Earth</a></p><p><a href="/videos/ragin-cajuns/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Ragin' Cajuns</a></p><p><a href="/videos/shark-week/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Shark Week</a></p><p><a href="/videos/sons-of-guns-videos/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Sons of Guns</a></p><p><a href="http://news.discovery.com/videos/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'video',position:'2'}); return false;">Discovery News</a></p>                        </dd>
+                                        </dl>
+        </div>
+</div>                </dd>
+                <dd class="navi-item games dropdown">
+                        <a href="http://games.dsc.discovery.com/" class="name" class="name" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'0'}); return false;">GAMES</a>
+                        
+
+
+
+<div class="dropdown-menu-topic">
+        <div class="menu-arrow"></div>
+                <div class="lists">
+                <div class="title">SHOW GAMES</div>
+                <dl class="content-list">
+                        <dd class="column">
+                                                                <p><a href="http://dsc.discovery.com/tv/sons-of-guns/games/cannon-challenge.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'1'}); return false;">Cannon Challenge</a></p><p><a href="http://dsc.discovery.com/motorcycles/build-bike-game.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'1'}); return false;">Chopper Build A Bike</a></p><p><a href="http://dsc.discovery.com/tv/storm-chasers/tornado-chase-game/tornado-chase-game.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'1'}); return false;">Tornado Chase</a></p><p><a href="http://dsc.discovery.com/tv/sons-of-guns/games/choose-your-weapon-challenge/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'1'}); return false;">Choose Your Weapon</a></p><p><a href="http://dsc.discovery.com/fansites/deadliestcatch/drop-the-pots-game/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'1'}); return false;">Catch: Drop the Pots</a></p><p><a href="http://dsc.discovery.com/fansites/manvswild/game/game.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'1'}); return false;">Man vs Wild: The Game</a></p><p><a href="http://dsc.discovery.com/tv/sons-of-guns/games/game/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'1'}); return false;">Pimp My Gun</a></p><p><a href="http://dsc.discovery.com/tv/auction-kings/games/what-did-it-go-for/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'1'}); return false;">What Did It Go For?</a></p>                                <p class="all"><a href="http://dsc.discovery.com/games/games.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:''}); return false;">SEE ALL</a></p>                        </dd>
+                </dl>
+        </div>
+                <div class="lists">
+                <div class="title">PUZZLES</div>
+                <dl class="content-list">
+                        <dd class="column">
+                                                                <p><a href="http://dsc.discovery.com/fansites/deadliestcatch/cinepuzzles/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'2'}); return false;">Deadliest Catch Video Puzzles</a></p><p><a href="http://dsc.discovery.com/tv/flying-wild-alaska/cinepuzzles/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'2'}); return false;">Flying Wild Alaska Video Puzzles</a></p><p><a href="http://dsc.discovery.com/tv/life/cinepuzzles/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'2'}); return false;">LIFE Video Puzzles</a></p><p><a href="http://dsc.discovery.com/fansites/mythbusters/cinepuzzles/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'2'}); return false;">MythBusters Video Puzzles</a></p><p><a href="http://dsc.discovery.com/sharks/cinepuzzles/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'2'}); return false;">Shark Week Video Puzzles</a></p><p><a href="http://dsc.discovery.com/fansites/mythbusters/puzzles/kari-byron/puzzles.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'2'}); return false;">MythBusters: Kari Byron</a></p><p><a href="http://dsc.discovery.com/tv/american-chopper/puzzles/fall-2011/puzzles.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'2'}); return false;">American Chopper: Behind the Scenes</a></p><p><a href="http://dsc.discovery.com/fansites/manvswild/puzzles/australia/puzzles.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'2'}); return false;">Man vs. Wild: Australia</a></p>                                <p class="all"><a href="http://dsc.discovery.com/games/games-tab-03.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:''}); return false;">SEE ALL</a></p>                        </dd>
+                </dl>
+        </div>
+                <div class="lists">
+                <div class="title">QUIZZES</div>
+                <dl class="content-list">
+                        <dd class="column">
+                                                                <p><a href="http://dsc.discovery.com/games-quizzes/dirty-jobs-who-said-it-quiz/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'3'}); return false;">Mike Rowe vs. Mark Twain</a></p><p><a href="http://dsc.discovery.com/fansites/manvswild/quiz/extreme-survival/extreme-survival.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'3'}); return false;">Man vs. Wild: Extreme Survival</a></p><p><a href="http://dsc.discovery.com/games-quizzes/guess-the-bid-1/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'3'}); return false;">Guess the Bid</a></p><p><a href="http://dsc.discovery.com/tv/life/challenges-of-life/hunt-like-a-cheetah-quiz.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'3'}); return false;">Hunt Like A Cheetah</a></p><p><a href="http://dsc.discovery.com/fansites/deadliestcatch/quiz/quiz.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'3'}); return false;">Deadliest Jobs Quiz</a></p><p><a href="http://dsc.discovery.com/games-quizzes/alcohol-myths/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'3'}); return false;">MythBusters Alcohol Myths</a></p><p><a href="http://dsc.discovery.com/games-quizzes/storm-chasers-tornado-basics/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'3'}); return false;">Tornado Quiz</a></p><p><a href="http://dsc.discovery.com/convergence/sharkweek/ultimate-quiz/ultimate-quiz.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'3'}); return false;">Ultimate Shark Quiz</a></p>                                <p class="all"><a href="http://dsc.discovery.com/games/quizzes/quizzes.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:''}); return false;">SEE ALL</a></p>                        </dd>
+                </dl>
+        </div>
+                <div class="lists">
+                <div class="title">MORE</div>
+                <dl class="content-list">
+                        <dd class="column">
+                                                                <p><a href="http://dsc.discovery.com/games/games.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'4'}); return false;">Game Central</a></p><p><a href="http://dsc.discovery.com/games/games-tab-04.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'4'}); return false;">Interactives</a></p><p><a href="http://dsc.discovery.com/games/games-tab-06.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'4'}); return false;">Video Puzzles</a></p><p><a href="http://games.dsc.discovery.com/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'4'}); return false;">Web and Downloadable Games</a></p><p><a href="http://dsc.discovery.com/mobile/games.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'4'}); return false;">Mobile Games & Applications</a></p><p><a href="http://kids.discovery.com/gaming" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:'4'}); return false;">Games for Kids</a></p>                                <p class="all"><a href="" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'games',position:''}); return false;"></a></p>                        </dd>
+                </dl>
+        </div>
+        </div>                </dd>
+                <dd class="navi-item shop dropdown">
+                        <a href="http://store.discovery.com/?ecid=PRF-DSC-101345&amp;pa=PRF-DSC-101345" class="name" class="name" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'store',position:'0'}); return false;">SHOP</a>
+                        
+
+
+
+<div class="dropdown-menu-topic">
+        <div class="menu-arrow"></div>
+        <div class="featured">
+                <div class="title">FROM THE STORE</div>
+                <div class="primary divider">
+<a class="product" onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'1'}); return false;" href="http://store.discovery.com/index.php?v=discovery_gifts_presidents-day&amp;ecid=PRF-DSC-101342&amp;pa=PRF-DSC-101342">
+<img src="http://dsc.discovery.com/images/ecommerce/200x200/prezdaysale200x200.JPG" alt="transparent git"/>
+</a>
+<p class="detail">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'1'}); return false;" href="http://store.discovery.com/index.php?v=discovery_gifts_presidents-day&amp;ecid=PRF-DSC-101342&amp;pa=PRF-DSC-101342">Use Promo Code PRESIDENT</a>
+</p>
+</div>
+<div class="secondary">
+<p class="detail">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'1'}); return false;" href="http://store.discovery.com/sale/index.php?v=discovery_sale&amp;nvbar=Sale&amp;ecid=PRF-DSC-101251&amp;pa=PRF-DSC-101251">Sale</a>
+</p>
+<p class="detail">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'1'}); return false;" href="http://store.discovery.com/?v=discovery_dvds-books_gift-sets&amp;ecid=PRF-TV1-100002&amp;pa=PRF-TV1-100002">Gift Sets</a>
+</p>
+<p class="detail">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'1'}); return false;" href="http://store.discovery.com/?v=discovery_dvds-books&amp;ecid=PRF-TV1-100001&amp;pa=PRF-TV1-100001">DVDs &amp; Books</a>
+</p>
+<p class="detail">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'1'}); return false;" href="http://store.discovery.com/?v=discovery_toys-games&amp;ecid=PRF-TV1-100004&amp;apa=PRF-TV1-100004">Toys &amp; Games</a>
+</p>
+<p class="detail">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'1'}); return false;" href="http://store.discovery.com/?v=discovery_shows_life&amp;ecid=PRF-TV1-100914&amp;pa=PRF-TV1-100914">Life DVD</a>
+</p>
+<p class="detail">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'1'}); return false;" href="http://store.discovery.com/?v=discovery_telescopes&amp;ecid=PRF-TV1-100003&amp;pa=PRF-TV1-100003">Telescopes</a>
+</p>
+</div>
+
+        </div>
+        <div class="featured more">
+                <div class="title">FEATURED PRODUCTS</div><!-- que:discovery+channel/pa:PRF-DSC-101341 -->
+                <div class="primary divider">
+<a class="product" onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'2'}); return false;" href="http://store.discovery.com/detail.php?p=271883&amp;v=discovery&amp;pa=PRF-DSC-101341&amp;ecid=PRF-DSC-101341">
+<img src="http://store.discovery.com/img/product/resized/211/00271883-404211_catl_200.jpg?k=ed707e56&amp;pid=271883&amp;s=catl&amp;sn=discovery" alt="Discovery Channel Life On Earth Collection DVD"/>
+</a>
+<p class="headline">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'2'}); return false;" href="http://store.discovery.com/detail.php?p=271883&amp;v=discovery&amp;pa=PRF-DSC-101341&amp;ecid=PRF-DSC-101341">Discovery Channel Life On Earth Collection DVD</a>
+</p>
+<p class="detail">$59.99</p>
+</div>
+<div class="secondary">
+<p class="headline">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'2'}); return false;" href="http://store.discovery.com/detail.php?p=271884&amp;v=discovery&amp;pa=PRF-DSC-101341&amp;ecid=PRF-DSC-101341">Discovery Channel Life On Earth Collection Blu-ray</a>
+</p>
+<p class="detail">$59.99</p>
+<p class="headline">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'2'}); return false;" href="http://store.discovery.com/detail.php?p=299915&amp;v=discovery&amp;pa=PRF-DSC-101341&amp;ecid=PRF-DSC-101341">Discovery Channel Polymer Chemistry Set</a>
+</p>
+<p class="detail">$14.99</p>
+<p class="headline">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'2'}); return false;" href="http://store.discovery.com/detail.php?p=86238&amp;v=discovery&amp;pa=PRF-DSC-101341&amp;ecid=PRF-DSC-101341">Discovery Volcano Island Lab</a>
+</p>
+<p class="detail">$9.97</p>
+<p class="headline">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'shop',position:'2'}); return false;" href="http://store.discovery.com/detail.php?p=105530&amp;v=discovery&amp;pa=PRF-DSC-101341&amp;ecid=PRF-DSC-101341">Discovery Time Zone Globe</a>
+</p>
+<p class="detail">$49.97</p>
+</div>
+
+        </div>
+</div>                </dd>
+                <dd class="navi-item adventure dropdown">
+                        <a href="/adventure/" class="name" class="name" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'adventure',position:'0'}); return false;">ADVENTURE</a>
+                                                
+
+    
+
+<div class="dropdown-menu-topic">
+        <div class="menu-arrow"></div>
+        <div class="lists">
+                <div class="title">ADVENTURE</div>
+                <dl class="content-list">
+                                                <dd class="column">
+                                                                <p><a href="http://dsc.discovery.com/adventure/winter-sports-guide.html" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'adventure',position:'1'}); return false;">FEATURE: Winter Adventure</a></p><p><a href="http://dsc.discovery.com/tags/adventure-activities/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'adventure',position:'1'}); return false;">Adventure Activities</a></p><p><a href="http://dsc.discovery.com/tags/adventure-travel/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'adventure',position:'1'}); return false;">Adventure Travel</a></p><p><a href="http://dsc.discovery.com/tags/outdoor-activities/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'adventure',position:'1'}); return false;">Outdoor Activities</a></p><p><a href="http://dsc.discovery.com/tags/national-parks/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'adventure',position:'1'}); return false;">National Parks</a></p><p><a href="http://dsc.discovery.com/tags/survival/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'adventure',position:'1'}); return false;">Survival</a></p><p><a href="http://dsc.discovery.com/tags/extreme-sports/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'adventure',position:'1'}); return false;">Extreme Sports</a></p><p><a href="http://dsc.discovery.com/tags/travel/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'adventure',position:'1'}); return false;">Travel</a></p>                        </dd>
+                                        </dl>
+        </div>
+                <div class="featured">
+                <div class="title">DISCOVERY ADVENTURE TRIPS</div>
+                <div class="primary divider">
+<a class="promo" onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'adventure',position:'2'}); return false;" href="http://www.discoveryadventures.com/?utm_source=discoverychannel&amp;utm_medium=topnav&amp;utm_campaign=topnav">
+<img src="http://dsc.discovery.com/images/ecommerce/DAdventures_HP_Nav.jpg" alt="peru"/>
+</a>
+<p class="detail">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'adventure',position:'2'}); return false;" href="http://www.discoveryadventures.com/?utm_source=discoverychannel&amp;utm_medium=topnav&amp;utm_campaign=topnav">Travel with us: Over 35 Amazing Trips</a>
+</p>
+</div>
+<div class="secondary">
+<p class="detail">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'adventure',position:'2'}); return false;" href="http://discoveryadventures.com/destination/tanzania/?utm_source=discoverychannel&amp;utm_medium=topnav&amp;utm_campaign=topnav">Serengeti Wildlife Safari: 8 Days</a>
+</p>
+<p class="detail">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'adventure',position:'2'}); return false;" href="http://www.discoveryadventures.com/trips/spirit-of-india/AHSPD/2011/?utm_source=discoverychannel&amp;utm_medium=topnav&amp;utm_campaign=topnav">Spirit of India: 15 Days</a>
+</p>
+<p class="detail">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'adventure',position:'2'}); return false;" href="http://www.discoveryadventures.com/trips/china-tibet-cultural-journey/ACCTD/2011/?utm_source=discoverychannel&amp;utm_medium=topnav&amp;utm_campaign=topnav">China &amp; Tibet: 15 Days</a>
+</p>
+<p class="detail">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'adventure',position:'2'}); return false;" href="http://www.discoveryadventures.com/trips/turkish-treasures/ETTTD/2011/?utm_source=discoverychannel&amp;utm_medium=topnav&amp;utm_campaign=topnav">Turkish Treasures: 9 Days</a>
+</p>
+<p class="detail">
+<a onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'adventure',position:'2'}); return false;" href="http://www.discoveryadventures.com/destination/peru/?utm_source=discoverychannel&amp;utm_medium=topnav&amp;utm_campaign=topnav">Ancient Incas of Peru: 9 Days</a>
+</p>
+</div>
+
+        </div>
+        </div>                </dd>
+                <dd class="navi-item cars dropdown">
+                        <a href="/cars-bikes/" class="name" class="name" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'carsbikes',position:'0'}); return false;">CARS &amp; BIKES</a>
+                                                
+
+    
+
+<div class="dropdown-menu-topic">
+        <div class="menu-arrow"></div>
+        <div class="lists">
+                <div class="title">CARS & BIKES</div>
+                <dl class="content-list">
+                                                <dd class="column">
+                                                                <p><a href="http://dsc.discovery.com/tags/cars/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'carsbikes',position:'1'}); return false;">Cars</a></p><p><a href="http://dsc.discovery.com/tags/trucks-&-suvs/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'carsbikes',position:'1'}); return false;">Trucks & SUVs</a></p><p><a href="http://dsc.discovery.com/tags/motorcycles/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'carsbikes',position:'1'}); return false;">Motorcycles</a></p><p><a href="http://dsc.discovery.com/tags/electric-cars/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'carsbikes',position:'1'}); return false;">Electric Cars</a></p><p><a href="http://dsc.discovery.com/tags/concept-cars/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'carsbikes',position:'1'}); return false;">Concept Cars</a></p><p><a href="http://dsc.discovery.com/tags/motorsports/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'carsbikes',position:'1'}); return false;">Motorsports</a></p><p><a href="http://dsc.discovery.com/tags/transportation-energy/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'carsbikes',position:'1'}); return false;">Transportation Energy</a></p>                        </dd>
+                                        </dl>
+        </div>
+        </div>                </dd>
+                <dd class="navi-item gear dropdown">
+                        <a href="/gear-gadgets/" class="name" class="name" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'geargadgets',position:'0'}); return false;">GEAR &amp; GADGETS</a>
+                                                
+
+    
+
+<div class="dropdown-menu-topic">
+        <div class="menu-arrow"></div>
+        <div class="lists">
+                <div class="title">GEAR & GADGETS</div>
+                <dl class="content-list">
+                                                <dd class="column">
+                                                                <p><a href="http://dsc.discovery.com/tags/technology/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'geargadgets',position:'1'}); return false;">Technology</a></p><p><a href="http://dsc.discovery.com/tags/latest-cool-gadgets/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'geargadgets',position:'1'}); return false;">Latest Cool Gadgets</a></p><p><a href="http://dsc.discovery.com/tags/wireless-technology/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'geargadgets',position:'1'}); return false;">Wireless Technology</a></p><p><a href="http://dsc.discovery.com/tags/laptops/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'geargadgets',position:'1'}); return false;">Laptops & Tablets</a></p><p><a href="http://dsc.discovery.com/tags/computers/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'geargadgets',position:'1'}); return false;">Computers</a></p><p><a href="http://dsc.discovery.com/tags/video-games/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'geargadgets',position:'1'}); return false;">Video Games</a></p><p><a href="http://dsc.discovery.com/tags/cameras/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'geargadgets',position:'1'}); return false;">Cameras & Photography</a></p><p><a href="http://dsc.discovery.com/tags/phones/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'geargadgets',position:'1'}); return false;">Phones</a></p>                        </dd>
+                                        </dl>
+        </div>
+        </div>                </dd>
+                <dd class="navi-item life dropdown">
+                        <a href="/life/" class="name" class="name" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'life',position:'0'}); return false;">LIFE</a>
+                                                
+
+    
+
+<div class="dropdown-menu-topic">
+        <div class="menu-arrow"></div>
+        <div class="lists">
+                <div class="title">LIFE</div>
+                <dl class="content-list">
+                                                <dd class="column">
+                                                                <p><a href="http://dsc.discovery.com/tags/health/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'life',position:'1'}); return false;">Health</a></p><p><a href="http://dsc.discovery.com/tags/exercise/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'life',position:'1'}); return false;">Exercise & Fitness</a></p><p><a href="http://dsc.discovery.com/tags/food/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'life',position:'1'}); return false;">Food & Drink</a></p><p><a href="http://dsc.discovery.com/tags/games/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'life',position:'1'}); return false;">Games</a></p><p><a href="http://dsc.discovery.com/tags/sports/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'life',position:'1'}); return false;">Sports</a></p><p><a href="http://dsc.discovery.com/tv/energy-365/" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'life',position:'1'}); return false;">Future Energy</a></p>                        </dd>
+                                        </dl>
+        </div>
+        </div>                </dd>
+                <dd class="navi-item news dropdown">
+                        <a href="http://news.discovery.com/" class="name" class="name" onclick="moduleClickTracking.evaluate(this, {title:'',name:'tophat',location:'news',position:'0'}); return false;">NEWS</a>
+                        
+
+
+<div class="dropdown-menu-topic">
+        <div class="menu-arrow"></div>
+        <div class="lists">
+                <div class="title">TOP NEWS STORIES</div>
+                <dl class="content-list">
+                        <dd class="column post">
+                                <p class="post-got-comments" id="8748df67-b9db-482e-a713-5b33e1953426">
+<a class="external" href="http://news.discovery.com/animals/fossilized-dinosaur-mom-found-120221.html#mkcpgn=rssnws1" onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'news',position:'1'}); return false;">Fossilized Dinosaur Mom Found</a>
+</p>
+<p class="post-got-comments" id="39fa8b1e-ffdd-4fd1-bc47-81f9dcd01a37">
+<a class="external" href="http://news.discovery.com/earth/pleistocene-plant-blooms-again-120221.html#mkcpgn=rssnws1" onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'news',position:'1'}); return false;">It's Alive! Pleistocene Plant Blooms Again</a>
+</p>
+<p class="post-got-comments" id="72478d65-f9bb-4d51-ba43-596571951ea3">
+<a class="external" href="http://news.discovery.com/human/humans-not-nasty-behavior-120220.html#mkcpgn=rssnws1" onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'news',position:'1'}); return false;">Humans Are Not Naturally 'Nasty'</a>
+</p>
+<p class="post-got-comments" id="c551e8ab-630d-4e56-91c6-d49e345f4870">
+<a class="external" href="http://news.discovery.com/tech/preschoolers-twitter-education-120220.html#mkcpgn=rssnws1" onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'news',position:'1'}); return false;">Preschoolers Learn to Tweet Before They Can Write</a>
+</p>
+<p class="post-got-comments" id="456869ee-aa83-4c1f-b6df-c6556d42f3c9">
+<a class="external" href="http://news.discovery.com/earth/noaa-aaas-scientists-sea-level-rises-120220.html#mkcpgn=rssnws1" onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'news',position:'1'}); return false;">Planning for a Devastating Sea Level Rise</a>
+</p>
+<p class="post-got-comments" id="f589c871-fe71-4403-b35d-86fe800c6da0">
+<a class="external" href="http://news.discovery.com/human/dnews-nuggets-week-of-feb-20-120220.html#mkcpgn=rssnws1" onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'news',position:'1'}); return false;">First-Person Shooter Improves Vision?: DNews Nuggets</a>
+</p>
+<p class="post-got-comments" id="c17d1663-fe21-42be-a226-6b57ff320fa6">
+<a class="external" href="http://news.discovery.com/space/titans-great-dune-seas-rival-science-fiction-worlds-120220.html#mkcpgn=rssnws1" onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'news',position:'1'}); return false;">Titan's Great Dune Seas Rival Science Fiction Worlds</a>
+</p>
+<p class="post-got-comments" id="26bee21b-a29e-452f-bc63-03e67748a5c4">
+<a class="external" href="http://news.discovery.com/human/dnews-nuggets-week-of-feb-13-120213.html#mkcpgn=rssnws1" onclick="moduleClickTracking.evaluate(this, {title:'--',name:'tophat',location:'news',position:'1'}); return false;">Avalanche Near Seattle: DNews Nuggets</a>
+</p>
+
+                        </dd>
+                </dl>
+        </div>
+</div>                </dd>
+                <dd class="navi-item search">
+                        <form action="/search/results.html" id="search-form">
+                                <fieldset>
+                                        <input type="hidden" value="site" name="focus" id="focus" />
+                                        <label for="search-query" id="search-label">
+                                                <input type="text" value="SEARCH" class="query" name="query" id="search-query" onfocus="this.value='';" />
+                                        </label>
+                                        <input type="submit" value="GO" id="submit-query" />
+                                </fieldset>
+                        </form>
+                </dd>
+        </dl>
+</div>
+<script>
+jQuery.each(jQuery(".dropdown-menu-topic"),function(){jQuery(this).css("display","none");var height=jQuery(this).height()-20;if(jQuery(".featured",this)){jQuery(".featured",this).css("height",height);}});
+jQuery("dd.dropdown").mouseover(function(){jQuery("a:first",this).addClass("active");jQuery("div:first",this).css("display","block");}).mouseout(function(){jQuery("a:first",this).removeClass("active");jQuery("div:first",this).css("display","none");});
+var pageContentWidth="990";
+</script>
+	
+</div>
+<!-- end include -->
+
+
+<div class="onexfive">&#xA0;</div>
+
+
+<!--
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+SET ESI VARIABLES [ DATETIME ] ( 86400 sec = 1 day )
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-->
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+
+	
+		
+		
+		
+		
+		
+	
+<!--
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+END SET ESI VARIABLES [ DATETIME ]
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-->
+
+
+<!--
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+CONTAINER [ CONTENT WRAPPER ] - 0.0
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-->
+<div id="wrapperContent">
+<table cellpadding="0" cellspacing="0" border="0" summary="primary content frame"><tbody><tr>
+	<!-- ####################	COLUMN [ content ] -->
+	<td id="content" width="795" align="left" valign="top">
+	
+			<!--------------------- Page Header --------------------->
+			<dl id="page-header">
+					<dd><h1>TV Schedule <span class="sub-section">Daily</span></h1></dd>
+			</dl>
+
+
+			<!--------------------- Video Player Block --------------------->
+			
+
+
+<dl id="video-player-block">
+		<dd class="player-block">
+				<div id="video-player-container">
+				        <div id="video-per-page-player">You need the Flash Player version 10.1.0.0 or higher and a JavaScript enabled browser to view this site.</div>
+				</div>
+				<div id="video-title-controls" class="clip-title clear clearfix"><span id="now-title"> </span> <span id="next-content"><a href="javascript: void(null);" id="next-url" onclick="playlistProgression.playClip(_clipId);"><span id="next-title"> </span></a></span></div>
+		</dd>
+		<dd class="companion-block">
+				<div class="ad-rectangle">
+						<div id="flash-companion-ad">
+								
+								<span id="x25" class="_fwph">
+        <form id="_fw_form_x25" style="display: none;">
+                <input type="hidden" name="_fw_input_x25" id="_fw_input_x25" value="ptgt=s&envp=g_iframe_js&slid=x25&w=300&h=250" />
+        </form>
+        <span id="_fw_container_x25" class="_fwac"></span>
+</span>						</div>
+						<div class="ad-rectangle-text">Advertisement</div>
+				</div>
+		</dd>
+</dl>
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var playlistClipsJSON = {"count":6,"name":"Best of Discovery Now","clips":[{"clipRefId":"5b2da9d3b9904b5fc12602b548c1197673753075","fullyQualifiedURL":"http://dsc.discovery.com/videos/bering-sea-gold-constipated-sluice-box.html","episodeTitle":"Constipated Sluice Box","durationForm":"short","promoLinkText":"","duration":104000,"programTitle":"Bering Sea Gold","aspectRatio":"16x9","numberOfViews":47077,"datePosted":"Thu Feb 16 15:44:23 GMT 2012","clipId":"1456169690001","videoCaption":"Scott Foster's solo excursion on the Sluicey is frustrated by a sluice box with a case of the \"slows.\"","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/b7/18/13555503301197_104ConstipatedSluiceBox_SNAPIN-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/53814f91f495f917cc32bd53568565d03fbf8da7_53814f91f495f917cc32bd53568565d03fbf8da7.jpg"},{"clipRefId":"f8f07fd5787c0e290c7a8372d6921f7b4fb004d6","fullyQualifiedURL":"http://dsc.discovery.com/videos/gold-rush-2-rescued-by-dad.html","episodeTitle":"Rescued By Dad","durationForm":"short","promoLinkText":"","duration":120000,"programTitle":"Gold Rush 2","aspectRatio":"16x9","numberOfViews":20652,"datePosted":"Thu Feb 16 16:07:11 GMT 2012","clipId":"1456346108001","videoCaption":"After Parker lets the loader run out of fuel, his dad Roger comes by to save the day by helping his son get the fuel filter cleaned.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/7a/37/13523010501197_215DadToTheRescue-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/a0dbd51a9911855f1a609e53aa1f4aad112e35ba_a0dbd51a9911855f1a609e53aa1f4aad112e35ba.jpg"},{"clipRefId":"31a79d7755fecb51b61333f28d729aae290efd47","fullyQualifiedURL":"http://dsc.discovery.com/videos/dirty-jobs-pete-gets-schooled.html","episodeTitle":"Pete Gets Schooled","durationForm":"short","promoLinkText":"","duration":134000,"programTitle":"Dirty Jobs","aspectRatio":"16x9","numberOfViews":5134,"datePosted":"Mon Feb 13 22:14:18 GMT 2012","clipId":"1450623752001","videoCaption":"Has Mike Rowe finally met his match as master wordsmith? Pete, we are impressed, even despite Mike's point about \"subsequently after.\"","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/7b/a7/13557504201197_609AnAHoleForYears-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/05b9f6de41760782d038ab9b9b7e30a276a3a939_05b9f6de41760782d038ab9b9b7e30a276a3a939.jpg"},{"clipRefId":"511251638fc45669509feab69c2b5f33b0bdb914","fullyQualifiedURL":"http://dsc.discovery.com/videos/sons-of-guns-vince-clears-out.html","episodeTitle":"Vince Clears Out","durationForm":"short","promoLinkText":"","duration":131000,"programTitle":"Sons of Guns","aspectRatio":"16x9","numberOfViews":32158,"datePosted":"Tue Jan 17 19:24:06 GMT 2012","clipId":"1397937611001","videoCaption":"In the middle of a panic to get the Desert AR15 assault rifle completed, Will learns that Vince has cleared out his tools and disappeared.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/f2/1c/13420109601197_214VinceVanishes-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/58f4d89b6f47e4c3a4ae29440bfdf7c438db9f7a_58f4d89b6f47e4c3a4ae29440bfdf7c438db9f7a.jpg"},{"clipRefId":"38a324efcc8b7d117d2ffef8af854903811ede2d","fullyQualifiedURL":"http://dsc.discovery.com/videos/flying-wild-alaska-fire-season.html","episodeTitle":"Fire Season","durationForm":"short","promoLinkText":"","duration":153000,"programTitle":"Flying Wild Alaska","aspectRatio":"16x9","numberOfViews":15128,"datePosted":"Tue Jan 17 19:58:50 GMT 2012","clipId":"1397931081001","videoCaption":"The Era Alaska crew begins to prep their planes to help battle dangerous Alaskan wild fires.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/20/d8/13520203601197_213FireSeason-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/215d2cb95baaa416ef2565742728755f9ea9ada5_215d2cb95baaa416ef2565742728755f9ea9ada5.jpg"},{"clipRefId":"f96da63e5f6ab02c0618c1fe420ab4b35219cf00","fullyQualifiedURL":"http://dsc.discovery.com/videos/american-guns-gun-deal-shoot-off.html","episodeTitle":"Gun Deal Shoot Off","durationForm":"short","promoLinkText":"","duration":110000,"programTitle":"American Guns","aspectRatio":"16x9","numberOfViews":24160,"datePosted":"Tue Oct 11 22:45:23 GMT 2011","clipId":"1213326148001","videoCaption":"A wealthy rancher and gun owner drives a hard bargain for a group of classic Winchester rifles that Rich Wyatt would dearly love to buy.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/43/ef/13516100501197_101GunDealShootOff-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/c7b192b7dc304cdfe1f019bc16a26778fe19c063_c7b192b7dc304cdfe1f019bc16a26778fe19c063.jpg"}]},
+    relatedClipsJSON = {"count":12,"clips":[{"siteSection":"25b839f9-2e06-4cb4-9b9f-3a7c255cb5b5","clipRefId":"29abf051f1032cfff850af5697f60126437155d9","fullyQualifiedURL":"http://dsc.discovery.com/videos/american-guns-family-shotgun-fun.html","episodeTitle":"Family Shotgun Fun","durationForm":"short","promoLinkText":"","programTitle":"American Guns","duration":81000,"aspectRatio":"16x9","numberOfViews":23108,"datePosted":"Thu Dec 01 23:31:52 GMT 2011","clipId":1305146315001,"videoCaption":"The Wyatt family has a shoot around with a very expensive German-made Merkel shotgun before Rich has to sell the $15K gun.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/4c/bd/13516103201197_108_FamilyShotgunFun-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/132e3de486b3a09c69b1df60cda4293f43e10bac_132e3de486b3a09c69b1df60cda4293f43e10bac.jpg"},{"siteSection":"13b8e360-aa7d-456f-87a9-f975e6d41be1","clipRefId":"9c059bdc1827e19c17499cfd50abe2e7ee2d3fd6","fullyQualifiedURL":"http://dsc.discovery.com/videos/american-guns-happy-hunter-surprise.html","episodeTitle":"Happy Hunter Surprise","durationForm":"short","promoLinkText":"","programTitle":"American Guns","duration":149000,"aspectRatio":"16x9","numberOfViews":13874,"datePosted":"Thu Dec 01 23:31:51 GMT 2011","clipId":1305146314001,"videoCaption":"A wealthy big-game hunter gets an explosive treat when he tries out his upgraded rifle.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/0c/08/13516103301197_108_HappyHunterSurprise-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/406013e79186d36dcc56d833138435cd763ff5d9_406013e79186d36dcc56d833138435cd763ff5d9.jpg"},{"siteSection":"338b82d3-a45c-47c6-9234-8cb9d491db36","clipRefId":"05425409b6f2ebb31663cc6f452631e63c9dcec0","fullyQualifiedURL":"http://dsc.discovery.com/videos/american-guns-bowling-ball-cannon-shoot.html","episodeTitle":"Bowling Ball Cannon Shoot","durationForm":"short","promoLinkText":"","programTitle":"American Guns","duration":116000,"aspectRatio":"16x9","numberOfViews":123443,"datePosted":"Tue Nov 29 21:58:00 GMT 2011","clipId":1301405475001,"videoCaption":"Rich and the Gunsmoke guys have a blast firing bowling balls from a cannon they made using a converted oxygen tank mounted on a Civil War style gun carriage.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/e2/0e/13516102901197_107BowlingBallCannonShoot-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/d63d65120152fde9d5a305107af3b22e40fa193a_d63d65120152fde9d5a305107af3b22e40fa193a.jpg"},{"siteSection":"30015a95-fff6-4e6d-aa58-66b373ed0787","clipRefId":"b1aa236d776e1bd07602fd700dd5a36941623b0f","fullyQualifiedURL":"http://dsc.discovery.com/videos/american-guns-volley-gun-plan.html","episodeTitle":"Volley Gun Plan","durationForm":"short","promoLinkText":"","programTitle":"American Guns","duration":96000,"aspectRatio":"16x9","numberOfViews":8928,"datePosted":"Tue Nov 08 17:30:20 GMT 2011","clipId":1264958170001,"videoCaption":"Rich goes over his plan to build slightly modernized 10-barrel .45-cal volley gun that will really impress Gunsmoke's latest customer.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/21/e0/13516102401197_105VolleyGunProposal-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/3fc0e077716d7876fe0bbd336dd76730ffdcd22b_3fc0e077716d7876fe0bbd336dd76730ffdcd22b.jpg"},{"siteSection":"6e01fede-dc49-4c37-9e33-0b046b925259","clipRefId":"9cdadbea91ae39b28984fac0eeebf026c30fcf97","fullyQualifiedURL":"http://dsc.discovery.com/videos/american-guns-helping-a-wounded-vet.html","episodeTitle":"Helping A Wounded Vet","durationForm":"short","promoLinkText":"","programTitle":"American Guns","duration":190000,"aspectRatio":"16x9","numberOfViews":24344,"datePosted":"Fri Nov 04 17:36:13 GMT 2011","clipId":1258682987001,"videoCaption":"Rich works with a disabled Army veteran to create a custom hunting rifle that will allow him to fire from his right side.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/f2/3d/13516102001197_103VetRifleIntro-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/596b0090f58d9285938a9ad9c056f96a827f60f3_596b0090f58d9285938a9ad9c056f96a827f60f3.jpg"},{"siteSection":"0967020c-3fde-4747-aaaf-d9f12c60f81f","clipRefId":"f729220edda03d2e16886fe8bc0d8b0dc164d7a4","fullyQualifiedURL":"http://dsc.discovery.com/videos/american-guns-007-car.html","episodeTitle":"007 Car","durationForm":"short","promoLinkText":"","programTitle":"American Guns","duration":109000,"aspectRatio":"16x9","numberOfViews":18697,"datePosted":"Wed Nov 02 22:40:10 GMT 2011","clipId":1255266967001,"videoCaption":"Rich treats his car and gun collector client to a simulated James Bond shooting spree using a pair of Walther pistols mounted on a classic roadster.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/84/1c/13516101701197_103007Reveal-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/9da1ba70a597f34793c5a11e9a04fcabf5c50b86_9da1ba70a597f34793c5a11e9a04fcabf5c50b86.jpg"},{"siteSection":"0f606609-65ab-4279-9ecf-2473e376af8a","clipRefId":"f1e72f0dc1b796e62981ca4837a4e6167131a114","fullyQualifiedURL":"http://dsc.discovery.com/videos/american-guns-no-tattoo-for-paige.html","episodeTitle":"No Tattoo For Paige","durationForm":"short","promoLinkText":"","programTitle":"American Guns","duration":72000,"aspectRatio":"16x9","numberOfViews":14300,"datePosted":"Wed Nov 02 22:40:09 GMT 2011","clipId":1255266966001,"videoCaption":"Paige tries to talk her father into letting her get a tattoo but Rich lets her know that it's out of the question.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/fe/8f/13516101801197_103NoTattoo-,400k,110k,200k,600k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/3c831ffb63afdee9aebcd8bcb0e771cfe40be9d8_3c831ffb63afdee9aebcd8bcb0e771cfe40be9d8.jpg"},{"siteSection":"3894f333-bca9-4cb0-b492-a51f9d06eaa2","clipRefId":"384ff1593c458f8388dfd59d710146243946c4b5","fullyQualifiedURL":"http://dsc.discovery.com/videos/american-guns-a-vets-dream-rifle.html","episodeTitle":"A Vet's Dream Rifle","durationForm":"short","promoLinkText":"","programTitle":"American Guns","duration":81000,"aspectRatio":"16x9","numberOfViews":16375,"datePosted":"Wed Nov 02 22:40:09 GMT 2011","clipId":1255266965001,"videoCaption":"An Iraqi war veteran, wounded and disabled by an IED, gets a customized Gunsmoke rifle that will let him hunt again.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/f8/30/13516101901197_103VetGunReveal-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/da31b79110d84d56c8fd42dbc973efc07ac66c29_da31b79110d84d56c8fd42dbc973efc07ac66c29.jpg"},{"siteSection":"2e86d480-10e0-437e-a2c5-82c6910fe7d1","clipRefId":"bb14eb0e25ecaf263fb4827022dde09eeeef06c2","fullyQualifiedURL":"http://dsc.discovery.com/videos/american-guns-hand-cannon-challenge.html","episodeTitle":"Hand Cannon Challenge","durationForm":"short","promoLinkText":"","programTitle":"American Guns","duration":131000,"aspectRatio":"16x9","numberOfViews":14256,"datePosted":"Thu Oct 27 21:05:24 GMT 2011","clipId":1244544050001,"videoCaption":"An eccentric gun collector challenges Rich and his team to build a primitive hand cannon from scratch.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/ec/69/13516101301197_104HandCannon-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/54910de9c3480b9f9900986ec634ec054d23ff66_54910de9c3480b9f9900986ec634ec054d23ff66.jpg"},{"siteSection":"60dcd9f8-039b-4004-9f29-e8c880aaf463","clipRefId":"e0051d5f0e8186e348916c435bc9ed13ccdac0ff","fullyQualifiedURL":"http://dsc.discovery.com/videos/american-guns-pink-pistol-shopping.html","episodeTitle":"Pink Pistol Shopping","durationForm":"short","promoLinkText":"","programTitle":"American Guns","duration":140000,"aspectRatio":"16x9","numberOfViews":34144,"datePosted":"Thu Oct 27 21:05:21 GMT 2011","clipId":1244544047001,"videoCaption":"A style-conscious customer wants a big gun that's pink, so Renee suggests a classic .45 pistol that Gunsmoke can customize to match her shoes.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/82/18/13516101601197_104PinkPistol-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/c9f6fc14282ef97e6ef69aa47aa27ba8ffa89de1_c9f6fc14282ef97e6ef69aa47aa27ba8ffa89de1.jpg"},{"siteSection":"0ffcd3c0-2567-4b60-9a17-df7a990e1678","clipRefId":"eed95cd95369547f2aa5411585ecdf7b541c09cc","fullyQualifiedURL":"http://dsc.discovery.com/videos/american-guns-gun-slinging-preacher.html","episodeTitle":"Gun-Slinging Preacher","durationForm":"short","promoLinkText":"","programTitle":"American Guns","duration":114000,"aspectRatio":"16x9","numberOfViews":20087,"datePosted":"Tue Oct 18 23:05:28 GMT 2011","clipId":1225229868001,"videoCaption":"Gunsmoke's minister client takes his new Model 1873 Colt out to a special \"sinful\" target range to test out his new pistol with his Cowboy Action Shooting skills.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/d0/5d/13516100901197_102FastFiringPreacher-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/f47bd3238db9690963899456cdd9d10d8e4d9074_f47bd3238db9690963899456cdd9d10d8e4d9074.jpg"},{"siteSection":"2d30d366-330e-4761-9ce2-d96fd4e8ba79","clipRefId":"344b0c76b932e32f46bde5cecb71f0519f98b139","fullyQualifiedURL":"http://dsc.discovery.com/videos/american-guns-knuckle-duster-plan.html","episodeTitle":"Knuckle Duster Plan","durationForm":"short","promoLinkText":"","programTitle":"American Guns","duration":93000,"aspectRatio":"16x9","numberOfViews":17193,"datePosted":"Tue Oct 11 22:45:24 GMT 2011","clipId":1213326150001,"videoCaption":"Rich assigns his gunsmiths the tough job of making a copy of a 19th-century Knuckle Duster from scratch.","m3u8":"http://discidevflash-f.akamaihd.net/i/digmed/hdnet/e7/8e/13516100201197_101AScratchKnuckleDuster-,400k,110k,200k,600k,800k,1500k,.mp4.csmil/master.m3u8","geoFilter":"","networkId":"DSC","promoLinkURL":"","thumbnailURL":"http://netstorage.discovery.com/feeds/brightcove/asset-thumbnails/dsc/0356df4df25055194acc74bf27333a95018a94d1_0356df4df25055194acc74bf27333a95018a94d1.jpg"}]},
+    playerApplication = "mini-playlist-player",
+    soVariables = {_playerApplication: "showSite", _network: "dsc", _playlistClipsData: encodeURIComponent(JSON.stringify(playlistClipsJSON)), _relatedClipsData: encodeURIComponent(JSON.stringify(relatedClipsJSON)), _deepLink: swfobject.getQueryParamValue("bcid"), _fallBackSiteSectionId: "dscplaylist", _siteSectionId: "3d8f0da6-0e70-4dc1-89a0-d91b5f15397d", _localConnectRand: pageRandomNumber, _mute: "yes", _player_w: 444, _player_h: 250, _fwEnv: ((swfobject.getQueryParamValue("_fwEnv"))?swfobject.getQueryParamValue("_fwEnv"):"prod")},
+    soParameters = {wmode: "opaque", allowScriptAccess: "always", allowFullScreen: "true", bgcolor: 0x000000},
+    soAttributes = {id: "video-per-page-player", name: "video-per-page-player"};
+    if (isIOS) {iVideo.init();} else {
+	swfobject.embedSWF("/shared/swf/video-players/monetized/video-asset-page-player.swf", "video-per-page-player", "444", "250", "10.1", "/shared/swf/expressInstall.swf", soVariables, soParameters, soAttributes);
+}
+/* ]]> */
+</script>
+			
+			
+			<!--------------------- TV Schedule Options --------------------->
+			<dl id="schedule-options" class="clear clearfix">
+					<dd class="tab-daily on"><a href="/tv-schedules/daily.html"><span>daily schedule</span></a></dd>
+					<dd class="tab-weekly"><a href="/tv-schedules/weekly.html"><span>weekly schedule</span></a></dd>
+					<dd class="tab-reminders"><a href="javascript: void(null);" onclick="reminderDetailsDiv('reminderDetails', 'show');"><span>what are reminders</span></a></dd>
+					<dd class="tab-printer"><a href="print-daily.html?date=20120221.052"><span>printer friendly</span></a></dd>
+			</dl>
+			
+			
+			<!--------------------- TV Series Title Line --------------------->	
+			<div id="series-title-line"></div>
+	
+	<!-- ## navigation -->
+	<div class="navigationStyle">
+	<table id="scheduleNavigation" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="spacer" width="10" height="30">&nbsp;</td>
+		<td align="right" valign="middle"><img src="/tv-schedules/gallery/view.gif" width="27" height="24" border="0" alt="view" /></td>		
+		
+		<td align="left" valign="middle"><div class="channelMenu"><ul><li><a href="javascript: void(null);" class="arrow">Discovery Channel<!--[if IE 7]></a><![endif]--><table><tr><td><ul>
+			
+
+
+
+
+
+
+
+<li><a href="http://www.discovery.com/tv-schedules/all-networks.html?date=20120221.052&type=c">All Networks</a></li>
+<li><a href="javascript: void(null);">----------------------------</a></li>
+<li><a href="http://animal.discovery.com/tv-schedules/daily.html?date=20120221.052">Animal Planet</a></li>
+<li><a href="http://dsc.discovery.com/tv-schedules/daily.html?date=20120221.052">Discovery Channel</a></li>
+<li><a href="http://health.discovery.com/tv-schedules/daily.html?date=20120221.052">Discovery Fit &amp; Health</a></li>
+<li><a href="http://dhd.discovery.com/tv-schedules/daily.html?date=20120221.052">Discovery HD Theater</a></li>
+<li><a href="http://investigation.discovery.com/tv-schedules/daily.html?date=20120221.052">Investigation Discovery</a></li>
+<li><a href="http://military.discovery.com/tv-schedules/daily.html?date=20120221.052">Military Channel</a></li>
+<li><a href="http://planetgreen.discovery.com/tv-schedules/daily.html?date=20120221.052">Planet Green</a></li>
+<li><a href="http://science.discovery.com/tv-schedules/daily.html?date=20120221.052">The Science Channel</a></li>
+<li><a href="http://tlc.discovery.com/tv-schedules/daily.html?date=20120221.052">TLC</a></li>
+<li><a href="http://velocity.discovery.com/tv-schedules/daily.html?date=20120221.052">Velocity</a></li>
+
+		</ul></td></tr></table><!--[if lte IE 6]></a><![endif]--></li></ul></a></div></td>
+		
+		<td align="center" valign="middle"><div id="datetimeDivide">&nbsp;</div></td>
+		<td align="right" valign="middle"><img src="/tv-schedules/gallery/date.gif" width="25" height="24" border="0" alt="date and time" /></td>
+
+		<td align="left" valign="middle"><div onmouseover="showCalendar();" onmouseout="hideCalendar();" class="dateMenu"><ul>
+			<li><a href="javascript: void(null);" class="arrow">02/21/2012</a></li>
+	    <li id="iFrameCalendar"><iframe name="calendar" id="calendar" width="152" height="181" scrolling="no" frameborder="0" src="/tv-schedules/calendar/calendar.html?parent=daily&color=33779e&currentDate=20120221&maxBackDate=20120124&maxOutDate=20120305&calendarDate=201202" class="zeroOut"></iframe></li></ul></div></td>
+
+		<td align="left" valign="middle"><div class="deadMenu">ET/PT</div></td>
+	</tr>
+	</table>
+	</div>
+	
+	<!-- ## overlay [ rating ] -->
+	<div id="tvRatings" class="overlayBox">
+		<div class="overlayHeader" style="background-color: #33779e;"><div class="headerPad">TV Ratings Information</div></div>
+		<div class="cellPad detailsText">
+			<div class="standardText"><strong>For programs designed solely for children:</strong></div><br style="line-height: 3px;" />
+			<u>TV-Y</u> <em>(All Children -- This program is designed to be appropriate for all children.)</em> Whether animated or live-action, the themes and elements in this program are specifically designed for a very young audience, including children from ages 2-6. This program is not expected to frighten younger children.<br /><br style="line-height: 7px;" />
+			<u>TV-Y7</u> <em>(Directed to Older Children -- This program is designed for children age 7 and above.)</em> It may be more appropriate for children who have acquired the developmental skills needed to distinguish between make-believe and reality. Themes and elements in this program may include mild fantasy or comedic violence, or may frighten children under the age of 7. Therefore, parents may wish to consider the suitability of this program for their very young children. Note: For those programs where fantasy violence may be more intense or more combative than other programs in this category, such programs will be designated TV-Y7-FV.<br /><br />
+			
+			<div class="standardText"><strong>For programs designed for the entire audience, the general categories are:</strong></div><br style="line-height: 3px;" />
+			<u>TV-G</u> <em>(General Audience -- Most parents would find this program suitable for all ages.)</em> Although this rating does not signify a program designed specifically for children, most parents may let younger children watch this program unattended. It contains little or no violence, no strong language and little or no sexual dialogue or situations.<br /><br style="line-height: 7px;" />
+			<u>TV-PG</u> <em>(Parental Guidance Suggested -- This program contains material that parents may find unsuitable for younger children.)</em> Many parents may want to watch it with their younger children. The theme itself may call for parental guidance and/or the program contains one or more of the following: moderate violence (V), some sexual situations (S), infrequent coarse language (L), or some suggestive dialogue (D).<br /><br style="line-height: 7px;" />
+			<u>TV-14</u> <em>(Parents Strongly Cautioned -- This program contains some material that many parents would find unsuitable for children under 14 years of age.)</em> Parents are strongly urged to exercise greater care in monitoring this program and are cautioned against letting children under the age of 14 watch unattended. This program contains one or more of the following: intense violence (V), intense sexual situations (S), strong coarse language (L), or intensely suggestive dialogue (D).<br /><br style="line-height: 7px;" />
+			<u>TV-MA</u> <em>(Mature Audience Only -- This program is specifically designed to be viewed by adults and therefore may be unsuitable for children under 17.)</em> This program contains one or more of the following: graphic violence (V), explicit sexual activity (S), or crude indecent language (L).<br />
+		</div>
+		<div class="overlayFooter"><div class="cellPad"><a href="javascript: void(null);" onclick="document.getElementById('tvRatings').style.display = 'none';" class="darkGrey">&#xAB; close &#xBB;</a></div></div>
+	</div>
+	
+	<!-- ## overlay [ reminder ] -->
+	<div id="reminderDetails" class="overlayBox">
+		<div class="overlayHeader" style="background-color: #33779e;"><div class="headerPad">TV Reminders Information</div></div>
+		<div class="cellPad detailsText">
+			<div class="standardText"><strong>Email reminders:</strong></div><br style="line-height: 3px;" />
+			You can receive email reminders of upcoming shows by selecting the Remind Me box next to your favorite programs. After all selections have been made, simply enter your email address at the bottom of the page and submit. Your reminder will arrive the day before your program airs. <em>Please note, reminders are not available for programming airing in less than 24 hours.</em><br />
+		</div>
+		<div class="overlayFooter"><div class="cellPad"><a href="javascript: void(null);" onclick="reminderDetailsDiv('reminderDetails', 'hide');" class="darkGrey">&#xAB; close &#xBB;</a></div></div>
+	</div>
+	
+	<!-- ## headers -->
+	<div class="headersFrame" style="border-color: #33779e;">
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tr style="background-color: #33779e; color: #ffffff;">
+		<td width="130" align="left"><div class="cellPad">Time</div></td>
+		<td width="100" align="center"><div class="cellPad">Remind Me</div></td>
+		<td width="443" align="left"><div class="cellPad">Series Title &#x26; Description</div></td>
+		<td width="120" align="left"><div class="cellPad"><!-- Buy --></div></td>
+	</tr>
+	</table>
+	</div>
+	
+	<!-- ## form -->
+	<form id="reminders" name="reminders" onsubmit="return evalReminders(this);" class="zeroOut">
+	<input type="hidden" name="format" value="TEXT_EMAIL" />
+	<input type="hidden" name="network" value="DSC" />
+	<input type="hidden" name="execute" value="add" />
+	
+	<!-- ## content :: rows -->
+	<!-- DATA [ web service url ] = /TVListingsWeb/getTimeAreaSchedule.do?networkAbbrev=DSC&startTimeAreaDateTime=201202210000&endTimeAreaDateTime=201202212359 -->
+	<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">12:00&#xA0;am<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.17686.26413.41932.2">World's Toughest Trucker</a> - (<a href="anthology.html?paid=1.17686.26413.41932.2" class="black">World's Toughest Trucker</a>)</strong>
+<br/>
+<em>Australian Outback: The First Elimination</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-14 (L)</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>After hauling oversized loads across the remote and grueling unpaved roads of the Australian Outback, the truckers face elimination where the two weakest are sent packing. Only the toughest truckers will survive.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">1:00&#xA0;am<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.11505.26358.31218.6">American Chopper: Senior vs. Junior</a>
+</strong>
+<br/>
+<em>Old Rivals</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG (L)</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>A three-way build-off is announced and contender Jesse James throws down the gauntlet by sending vulgar cakes to OCC and PJD. OCC works on two bikes and Junior unveils the biggest build of his career at Ground Zero in NYC.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">2:00&#xA0;am<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.14710.26358.31218.7">American Chopper: Senior vs. Junior</a>
+</strong>
+<br/>
+<em>Winners and Losers</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG (L)</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>In the aftermath of the live show, Junior celebrates his win while fulfilling an order for an overseas client. Senior focuses on the future with a big build and an even bigger opportunity: a spot on Celebrity Apprentice.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:none;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">3:00&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="special.html?paid=1.999999.999999.0.0">Paid Programming</a>
+</strong>
+<br/>
+<em>&#xA0;</em>
+<br/>
+<br/>
+<br class="lineHeight5"/>&#x2026;
+<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:none;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">3:30&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="special.html?paid=1.999999.999999.0.0">Paid Programming</a>
+</strong>
+<br/>
+<em>&#xA0;</em>
+<br/>
+<br/>
+<br class="lineHeight5"/>&#x2026;
+<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:none;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">4:00&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="special.html?paid=1.999999.999999.0.0">Paid Programming</a>
+</strong>
+<br/>
+<em>&#xA0;</em>
+<br/>
+<br/>
+<br class="lineHeight5"/>&#x2026;
+<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:none;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">4:30&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="special.html?paid=1.999999.999999.0.0">Paid Programming</a>
+</strong>
+<br/>
+<em>&#xA0;</em>
+<br/>
+<br/>
+<br class="lineHeight5"/>&#x2026;
+<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:none;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">5:00&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="special.html?paid=1.999999.999999.0.0">Paid Programming</a>
+</strong>
+<br/>
+<em>&#xA0;</em>
+<br/>
+<br/>
+<br class="lineHeight5"/>&#x2026;
+<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:none;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">5:30&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="special.html?paid=1.999999.999999.0.0">Paid Programming</a>
+</strong>
+<br/>
+<em>&#xA0;</em>
+<br/>
+<br/>
+<br class="lineHeight5"/>&#x2026;
+<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:none;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">6:00&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="special.html?paid=1.999999.999999.0.0">Paid Programming</a>
+</strong>
+<br/>
+<em>&#xA0;</em>
+<br/>
+<br/>
+<br class="lineHeight5"/>&#x2026;
+<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:none;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">6:30&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="special.html?paid=1.999999.999999.0.0">Paid Programming</a>
+</strong>
+<br/>
+<em>&#xA0;</em>
+<br/>
+<br/>
+<br class="lineHeight5"/>&#x2026;
+<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:none;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">7:00&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="special.html?paid=1.999999.999999.0.0">Paid Programming</a>
+</strong>
+<br/>
+<em>&#xA0;</em>
+<br/>
+<br/>
+<br class="lineHeight5"/>&#x2026;
+<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:none;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">7:30&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="special.html?paid=1.999999.999999.0.0">Paid Programming</a>
+</strong>
+<br/>
+<em>&#xA0;</em>
+<br/>
+<br/>
+<br class="lineHeight5"/>&#x2026;
+<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:none;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">8:00&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="special.html?paid=1.999999.999999.0.0">Paid Programming</a>
+</strong>
+<br/>
+<em>&#xA0;</em>
+<br/>
+<br/>
+<br class="lineHeight5"/>&#x2026;
+<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:none;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">8:30&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="special.html?paid=1.999999.999999.0.0">Paid Programming</a>
+</strong>
+<br/>
+<em>&#xA0;</em>
+<br/>
+<br/>
+<br class="lineHeight5"/>&#x2026;
+<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">9:00&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.14710.132928.16541.1">How It's Made 9</a>
+</strong>
+<br/>
+<em>Decorative Sombreros, Salad Dressings, Cap Guns, Regenerative Medicine</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-G</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>Decorative Sombreros, Salad Dressings, Cap Guns, Regenerative Medicine<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">9:30&#xA0;am<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.14710.132928.16541.2">How It's Made 9</a>
+</strong>
+<br/>
+<em>Cheese Graters, Hot Sauce, Silver Jewelry, Traditional Mexican Chairs</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-G</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>Cheese Graters, Hot Sauce, Silver Jewelry, Traditional Mexican Chairs<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">10:00&#xA0;am<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.14710.125388.41142.5">I (Almost) Got Away With It (Season 1)</a>
+</strong>
+<br/>
+<em>Got To Sing Karaoke</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-14 (DLSV)</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>Joe Crouch wakes up one morning, and after 40 years of marriage, shoots his wife while she sleeps. He flees to Florida and embraces his fugitive life. He funds his hobbies by robbing banks. It is his love of karaoke that gets him caught.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">11:00&#xA0;am<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.14710.125390.36204.9">Unusual Suspects</a>
+</strong>
+<br/>
+<em>Betrayal of Trust</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-14 (V)</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>A husband and wife are found shot to death on a deserted stretch of highway; A young woman is thrown from a bridge near a freeway exit ramp.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">12:00&#xA0;pm<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.13056.132487.36204.8">Unusual Suspects (Season 2)</a>
+</strong>
+<br/>
+<em>Death of a Freshman</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-14 (V)</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>Soon after Mardi Gras in Mobile, Alabama, an 18-year-old freshman is found shot to death in the woods behind campus. Detectives take a hard look at several suspects, but thirty years go by before a stunning confession cracks the case.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">1:00&#xA0;pm<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.13056.56127.34172.13">LA Ink 3</a>
+</strong>
+<br/>
+<em>The Final Showdown</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG (L)</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>Pushed to the limit, Corey finally unleashes his pent up anger at Aubry when she does the unthinkable with one of his clients. Now at the breaking point, he questions his role at LA Ink and backs Kat into a corner forcing her to make a critical decision.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">2:00&#xA0;pm<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.13056.56127.34172.14">LA Ink 3</a>
+</strong>
+<br/>
+<em>Showdown at the Shop</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG (L)</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>Kat is forced to take sides when a long-simmering feud explodes between Corey and Aubry. Kat's sister Karoline announces a sudden departure leaving Kat short handed at a critical time in the shop.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">3:00&#xA0;pm<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.14710.25030.31218.70">American Chopper</a>
+</strong>
+<br/>
+<em>Sunoco Bike 1</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>OCC teams up with Sunoco and NASCAR driver Kyle Petty to build a bike that will benefit the Victory Junction Gang Camp.  The guys head down to North Carolina to meet Kyle Petty and to tour the camp.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">4:00&#xA0;pm<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.14710.25030.31218.71">American Chopper</a>
+</strong>
+<br/>
+<em>Sunoco Bike 2</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>OCC continues working on their latest build, a bike for Sunoco that will be auctioned off to benefit the Victory Junction Gang Camp. When the bike is sent to paint and powdercoat, the guys head to Lowe's Speedway and take turns going around the track.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">5:00&#xA0;pm<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.14710.26004.32074.7">Man vs. Wild</a>
+</strong>
+<br/>
+<em>Pacific Island</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>On a deserted Panamanian island, Bear Grylls creates critical fresh water and uses tribal techniques to fish before taking his chances at sea on a homemade raft.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">6:00&#xA0;pm<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.14710.26169.39167.2">Auction Kings</a>
+</strong>
+<br/>
+<em>Hand Cannon/Faberge Pencil</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>Owner Paul Brown and Gallery 63 team prepare for their next auction, which includes an ancient hand cannon, a gold  Faberge pencil, and a player piano. A woman hits the jackpot when she brings in an unwanted painting she inherited from a favorite aunt.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">6:30&#xA0;pm<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.14710.26169.39167.13">Auction Kings</a>
+</strong>
+<br/>
+<em>Headhunter Ax/Vintage Coke Machine</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG (L)</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>The next auction includes a headhunter's ax and rare Vespa scooter. Paul and Cindy fight over vintage Coke machine.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">7:00&#xA0;pm<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.14710.26169.39167.19">Auction Kings</a>
+</strong>
+<br/>
+<em>Declaration of Independence/Concession Wagon</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>The Gallery 63 team auctions a vintage fire truck, a 19th-centruy copy of the Declaration of Independence, and a Tiffany grandfather clock. The team races to fix an antique concession wagon which breaks during offload.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">7:30&#xA0;pm<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.14710.26169.39167.18">Auction Kings</a>
+</strong>
+<br/>
+<em>Happy Days Pinball/Wall of Shame</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>The Gallery 63 team auctions a vintage slot machine, Happy Days pinball machine, WWII Soviet flag, and Whizzer. Not even Paul can escape Cindy's Wall of Shame for people who don't pay their bills.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">8:00&#xA0;pm<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.13897.26169.39167.16">Auction Kings</a>
+</strong>
+<br/>
+<em>Shrunken Head/MLK Letter</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>The Gallery 63 team auctions an MLK-signed letter and some very expensive Finster doll furniture. A seller  brings in a shrunken head for consideration. Paul and father Bob test Paul's son Elijah to intice him to join the family business.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">8:30&#xA0;pm<br/>
+<div class="showLengthText">(30 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.13897.26169.39167.14">Auction Kings</a>
+</strong>
+<br/>
+<em>Johnny Cash Guitar/Speed Rug</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG (L)</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>The Gallery 63 team auctions Johnny Cash's autographed guitar, a trading knife made from a jawbone, and a 17th-century chest for treasures. Picker Jon is initiated with the much dreaded Speed Rug.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">9:00&#xA0;pm<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.13949.30665.4062.2">Dirty Jobs (Season 6 Repacks)</a>
+</strong>
+<br/>
+<em>Dirty Conversations 2</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG (L)</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>In this special, Mike takes a look back at some of the unusual and quirky conversations he's had with his dirty co-workers.  Using 99.9% never-before-seen footage, it's an entertaining look at the art of communication.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">10:00&#xA0;pm<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="special.html?paid=1.12301.26552.0.0">Cruise Ship Disaster: Inside the Concordia</a>
+</strong>
+<br/>
+<em>&#xA0;</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG</a>
+</span>
+<br/>
+<br class="lineHeight5"/>Featuring never before seen exclusive footage, get an inside look at what caused the Concorida disaster through interviews with maritime experts and harrowing tales from survivors.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="contentFrame" style="border-color:#33779e; display:block;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="130" align="left" valign="top">
+<div class="cellPad">11:00&#xA0;pm<br/>
+<div class="showLengthText">(60 minutes)</div>
+</div>
+</td>
+<td width="100" align="center" valign="top">
+<div class="cellPad"/>
+</td>
+<td align="left" valign="top" width="443">
+<div class="cellPad">
+<strong>
+<a href="series.html?paid=1.13949.30665.4062.2">Dirty Jobs (Season 6 Repacks)</a>
+</strong>
+<br/>
+<em>Dirty Conversations 2</em>
+<br/>
+<span class="creditsText">
+<a href="javascript: void(null);" onclick="tvRatingsDiv('tvRatings');">TV-PG (L)</a>, CC</span>
+<br/>
+<br class="lineHeight5"/>In this special, Mike takes a look back at some of the unusual and quirky conversations he's had with his dirty co-workers.  Using 99.9% never-before-seen footage, it's an entertaining look at the art of communication.<br/>
+</div>
+</td>
+<td width="120" align="left" valign="top">
+<div class="cellPad"/>
+</td>
+</tr>
+</table>
+</div>
+
+	
+	<!-- ## pagination -->
+	<div class="paginationFrame">
+		
+
+
+		
+		
+		
+		
+    
+
+
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+	<td width="100" height="24" align="right" valign="middle">
+	<a href="daily.html?date=20120220.051" class="darkGrey"><strong>&#xAB; prev</strong> <span class="dateLinkText">(Feb 20)</span></a>
+	</td>
+	<td width="593" align="center" valign="middle"></td>
+	<td width="100" height="24" align="left" valign="middle" class="debug">
+	<a href="daily.html?date=20120222.053" class="darkGrey"><span class="dateLinkText">(Feb 22)</span> <strong>next &#xBB;</strong></a>
+	</td>
+</tr>
+</table>
+
+	</div>
+		
+	<!-- ## submit -->
+	
+	
+	<!-- ## end form -->
+	</form>
+
+	</td>
+	<!-- ####################	END COLUMN [ content ] -->
+	
+	
+	<!-- ####################	COLUMN [ gutter ] -->
+	<td id="gutter" width="5"><div class="fivexfive">&#xA0;</div></td>
+	<!-- ####################	END COLUMN [ gutter ] -->
+	
+	
+	<!-- ####################	COLUMN [ ad unit ] -->
+	<td id="adUnit" width="190" align="left" valign="top">
+		
+        <!-- ## GOOGLE AD SENSE ## -->
+        <div id="google-afc-region-one"></div>
+
+		<div class="onexten">&#xA0;</div>
+        
+        <!-- ## NEWSLETTER ## -->
+        <div align="center"><a href="/newsletters/newsletters.html" target="_top"><img src="/images/buttons/newsletter-skyscraper.jpg" width="160" height="60" border="0" alt="newsletter" /></a></div>
+        
+    </td>
+	<!-- ####################	END COLUMN [ ad unit ] -->
+</tr></tbody></table>
+</div>
+<!--
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+END CONTAINER [ CONTENT WRAPPER ] - 0.0
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-->
+
+
+<div class="onexfive">&#xA0;</div>
+
+
+<!-- ####################	CREDITS -->
+
+
+<!-- ####################	KOPPEL [ logo parade ] -->
+
+
+<!-- ####################	EMPTY [ empty ] -->
+<!-- ####################	END CREDITS -->
+
+
+</div>
+<!--
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+END CONTAINER [ PRIMARY WRAPPER ] - 0
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+-->
+
+
+<!-- include [ footer ]-->
+<!-- DEBUG: theNetAbbrev="dsc"  |  theHost="dsc.discovery.com"  |  thePath="/tv-schedules/daily.html"  |  evalDate="" -->
+
+
+
+
+<!-- #* body : inc@[dsc.discovery.com%2ftv-schedules%2fdaily.html] : omniture + comScore *# -->
+
+
+
+<span style="display: none" id="dv_category_slice" class="hslice">
+        <div id="slice" class="hslice">
+                <div class="entry-title">Discovery Channel Videos</div>
+                <div class="entry-content">CONTENT</div>
+                <a rel="entry-content" href="http://ie8.smoothfusion.com/discoveryvideo/view.aspx" style="display: none;">LINKS</a>
+                <a rel="bookmark" target="_blank" href="http://dsc.discovery.com" style="display: none;" />
+                <span class="ttl" style="display: none;">15</span>
+        </div>
+</span>
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="/shared/javascript/omniture/h-code-reconciliation.js"></script>
+<script language="JavaScript" type="text/javascript">/* <[CDATA[ */  var s_code=s.t();if(s_code)document.write(s_code)  /* ]]> */</script>
+<script language="JavaScript" type="text/javascript">/* <[CDATA[ */  if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')  /* ]]> */</script> 
+<noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://disccdsc.112.2O7.net/b/ss/disccdsc/1/H.20.3--NS/0" height="1" width="1" border="0" alt="" /></a></noscript>
+<!--/DO NOT REMOVE/-->
+
+<script type="text/javascript">
+/* <[CDATA[ */
+function OmniView(flashId) {
+        if ("" != pageLevelInteractiveRuleSet) { aditure.trigger("", pageLevelInteractiveRuleSet, {exclusions:''}); }
+        else { aditure.trigger("mandatory"); }
+}
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+<!-- DFP : disabled -->
+<!-- path : [/tv-schedules/daily.html] regx [/tv-schedules/daily.html], name : [] regx [] -->
+
+
+
+<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=J08778"></script> 
+<script type="text/javascript"> 
+/* <![CDATA[ */ 
+var DCIRevSciData = {net:omnitureLookupObject.network.id,show:omnitureLookupObject.asset.showName,topic:omnitureLookupObject.taxonomy.channel,asset:omnitureLookupObject.asset.assetType,content:omnitureLookupObject.asset.contentType},
+    RSI_Category = DCIRevSciData.net + " > " + DCIRevSciData.topic + (("" != DCIRevSciData.show) ? " / " + DCIRevSciData.show : "") + " > " + DCIRevSciData.asset + " > " + DCIRevSciData.content;
+DM_cat(RSI_Category);
+DM_tag(); 
+/* ]]> */ 
+</script>
+
+
+
+<script>DIT.quantcast = {queryString:"",store:function(response){var i=0,length=response.segments.length,cookie="qc_segs";for(;i<length;i++){DIT.quantcast.queryString+="qc="+response.segments[i].id+((i<(length - 1))?"&":"");}if(getCookie(cookie)){deleteCookie(cookie);}setCookie(cookie,DIT.quantcast.queryString,"","/","discovery.com");}};</script>
+<script src="http://pixel.quantserve.com/api/segments.json?a=p-eeQ5-n64VG-GM&callback=DIT.quantcast.store"></script>
+<script>var _qevents = _qevents || [];</script>
+<script src="http://edge.quantserve.com/quant.js"></script>
+<script>_qevents.push({qacct:"p-eeQ5-n64VG-GM"});</script>
+<noscript><div style="display:none;"><img src="http://pixel.quantserve.com/pixel/p-eeQ5-n64VG-GM.gif" border="0" height="1" width="1" alt="Quantcast" /></div></noscript>
+
+
+
+
+
+<script type="text/javascript">(function () {var d = new Image(1, 1); d.onerror = d.onload = function () {d.onerror = d.onload = null;}; d.src = ["http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-204250h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');})();</script>
+<noscript><div><img src="http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-204250h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" /></div></noscript>
+
+
+
+
+<script type="text/javascript" src="http://content.dl-rms.com/rms/mother/20824/nodetag.js"></script>
+
+
+
+<script type='text/javascript'>
+var SI_40dTWvEKM5rZ4Qk_ed='';
+var SI_40dTWvEKM5rZ4Qk_url='http://siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_40dTWvEKM5rZ4Qk&#39; + SI_40dTWvEKM5rZ4Qk_ed';
+var SI_40dTWvEKM5rZ4Qk_sampleRate=100;
+var q_si_f = function(){if (Math.random() >= SI_40dTWvEKM5rZ4Qk_sampleRate/100)return; var s=document.createElement('script');s.type='text/javascript';s.src=SI_40dTWvEKM5rZ4Qk_url+'&Q_LOC='+escape(window.location.href);if(document.body)document.body.appendChild(s);};try{if (window.addEventListener){window.addEventListener('load',q_si_f,false);}else if (window.attachEvent){r=window.attachEvent('onload',q_si_f);}else {}}catch(e){}</script><div id='SI_40dTWvEKM5rZ4Qk'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<noscript><a target="_blank" href="http://www.qualtrics.com/enterprise-feedback-management">Enterprise Feedback Management</a><br/><a target="_blank" href="http://www.qualtrics.com/crm-integration">CRM Integration</a><br/></noscript> 
+
+
+
+
+
+
+
+
+<script>
+if(/iPad/i.test(navigator.userAgent)){
+		if(document.cookie.indexOf("dsc_ipad_redirect")<0){
+    		$(function() {
+			 	$("document.body").add("<iframe  id='ipad-interstital' src='/ipad-overlay.html' height='100' frameborder='0' scrolling='no' style='border:0; padding:0; margin:0; position:absolute; bottom: -11px; z-index:1000;'></iframe>").appendTo(document.body);
+    		});
+		};
+        positionDeviceOverlay(); 
+        function positionDeviceOverlay(){
+            $("#ipad-interstital").css({position: "absolute",top:($(window).scrollTop()+$(window).height()-$("#ipad-interstital").height())+11+"px"})    
+        }
+        $(window)
+            .scroll(positionDeviceOverlay)
+            .resize(positionDeviceOverlay)
+}
+</script>
+<!-- end include -->
+
+
+<!-- include [ browsertag ]-->
+<!-- DEBUG: theNetAbbrev="dsc"  |  theHost="dsc.discovery.com"  |  thePath="/tv-schedules/daily.html"  |  evalDate="" -->
+
+
+
+
+
+
+
+
+
+        
+        <!-- ## DYNAMIC LOGIC [ adunit ] --><script src="http://content.dl-rms.com/rms/mother/518/nodetag.js"></script>
+
+
+
+<!-- end include -->
+
+
+<!-- ## GOOGLE AD SENSE ## -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var googleAFCNetworkData = new Array(["animal.", "ca-discovery-animal_js", "Animal_Domain,Content_TVSked"], ["dsc.", "ca-discovery-dsc_js", "Dsc_Domain,Dsc_TVSked"], ["health.", "ca-discovery-health_js", "Health_Domain,Content_TVSked"], ["dhd.", "ca-discovery-emerging_js", "Dhd_Domain,Content_TVSked"], ["fittv.", "ca-discovery-health_js", "Fittv_Domain,Content_TVSked"], ["investigation.", "ca-discovery-emerging_js", "Id_Domain,Content_TVSked"], ["military.", "ca-discovery-emerging_js", "Military_Domain,Content_TVSked"], ["science.", "ca-discovery-dsc_js", "Science_Domain,Sci_TVSked"], ["tlc.", "ca-discovery-tlc_js", "Tlc_Domain,Content_TVSked"]),
+    afcArrayPosition = 0,
+    googleAFCAssetType = "tv-schedule",
+    googleAFCSubordinate = "-daily",
+    googleAFCRegion = "one";
+
+for (var i = 0; i < googleAFCNetworkData.length; i++) {
+    if (-1 != (window.location.hostname).indexOf(googleAFCNetworkData[i][0])) { afcArrayPosition = i; break; }
+}
+/* ]]> */
+</script>
+<script type="text/javascript" src="/shared/javascript/google/adsense-for-content.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+google_ad_client = googleAFCNetworkData[afcArrayPosition][1];
+google_ad_channel = googleAFCNetworkData[afcArrayPosition][2];
+google_ad_output = "js";
+google_max_num_ads = "8";
+google_safe = "high";
+google_ad_type = "text";
+google_feedback = "on";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+</body>
+</html>

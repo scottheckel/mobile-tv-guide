@@ -1,4 +1,4 @@
-﻿using MobileTVLibrary.Models;
+using MobileTVLibrary.Models;
 
 namespace MobileTVLibrary.Services.TvGuides
 {

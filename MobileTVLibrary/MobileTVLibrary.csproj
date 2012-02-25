@@ -31,6 +31,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Fizzler">
+      <HintPath>..\packages\fizzler-0.9\Fizzler.dll</HintPath>
+    </Reference>
+    <Reference Include="Fizzler.Systems.HtmlAgilityPack">
+      <HintPath>..\packages\fizzler-0.9\Fizzler.Systems.HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Fizzler.Systems.XmlNodeQuery">
+      <HintPath>..\packages\fizzler-0.9\Fizzler.Systems.XmlNodeQuery.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\packages\fizzler-0.9\HtmlAgilityPack.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -40,6 +52,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChannelParsers\DiscoveryChannel.cs" />
+    <Compile Include="ChannelParsers\FxNetworksParser.cs" />
+    <Compile Include="ChannelParsers\IChannelParser.cs" />
     <Compile Include="Helpers\EasternTimeZone.cs" />
     <Compile Include="Models\Category.cs" />
     <Compile Include="Models\Factories\GuideFactory.cs" />
@@ -50,6 +65,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\IRepository.cs" />
     <Compile Include="Repositories\SqlShowRepository.cs" />
+    <Compile Include="Services\Channels\DiscoveryChannelService.cs" />
+    <Compile Include="Services\Channels\FxNetworksService.cs" />
+    <Compile Include="Services\Channels\IChannelService.cs" />
     <Compile Include="Services\TvGuides\ITvGuideService.cs" />
     <Compile Include="Services\TvGuides\TvRage.cs" />
   </ItemGroup>
