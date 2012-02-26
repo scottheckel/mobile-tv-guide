@@ -4,6 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using MobileTVLibrary.Models;
 using System.Collections.Generic;
+using MobileTVLibrary.Services.Channels;
 
 namespace MobileTVLibraryTest
 {
@@ -23,9 +24,9 @@ namespace MobileTVLibraryTest
         [TestMethod()]
         public void RetrieveShowsTest()
         {
-            var service = new DiscoveryChannel(Resources.Discovery);
+            var parser = new DiscoveryChannel();
             var day = new DateTime();
-            var actual = service.RetrieveShows(day);
+            var actual = parser.RetrieveShows(new DiscoveryChannelService(day));
             Assert.Inconclusive("Verify the correctness of this test method.");
         }
     }

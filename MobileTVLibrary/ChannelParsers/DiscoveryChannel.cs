@@ -27,30 +27,6 @@ namespace MobileTVLibrary.ChannelParsers
         }
 
         /// <summary>
-        /// Retrieves the Document Node of the Guide
-        /// </summary>
-        /// <param name="day">Day to display</param>
-        /// <returns></returns>
-        private HtmlNode RetrieveGuideDocument(DateTime day)
-        {
-            // TODO: Use day variable, currently always returns today
-            HtmlDocument doc;
-
-            if (string.IsNullOrEmpty(dailyHtml))
-            {
-                var web = new HtmlWeb();
-                doc = web.Load("http://dsc.discovery.com/tv-schedules/daily.html");
-            }
-            else
-            {
-                doc = new HtmlDocument();
-                doc.LoadHtml(dailyHtml);
-            }
-
-            return doc.DocumentNode;
-        }
-
-        /// <summary>
         /// Cleans up the text in the Name of the show
         /// </summary>
         /// <param name="shows">Shows to process</param>
