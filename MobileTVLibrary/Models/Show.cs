@@ -1,4 +1,4 @@
-﻿
+
 namespace MobileTVLibrary.Models
 {
     public class Show
@@ -12,6 +12,11 @@ namespace MobileTVLibrary.Models
         /// Description
         /// </summary>
         public string Description { get; set; }
+
+        /// <summary>
+        /// Episode Title
+        /// </summary>
+        public string EpisodeTitle { get; set; }
 
         /// <summary>
         /// Show Length (in minutes)
