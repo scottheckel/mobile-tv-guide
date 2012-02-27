@@ -33,8 +33,7 @@ namespace MobileTVLibrary.ChannelParsers
                                        Length = DetermineLengthFromStyleWidth(showRow.Attributes["style"].Value)
                                    };
 
-            // TODO: parse out the date on the start time
-            // TODO: Determine show length, will need to do it off the width of the li's (I know it's weird)
+            // TODO: parse out the date on the start time? I haven't really determined what I'm going to do with dates yet
             // TODO: Description would be a network call to the show description page at a url like this http://www.fxnetworks.com/get_show_detail.php?show_code=429646&show_time=Tue%20Feb%2028th%2011:00pm
 
             return shows;
@@ -78,15 +77,22 @@ namespace MobileTVLibrary.ChannelParsers
             return showName;
         }
 
+        /// <summary>
+        /// Create CSS Selector to get the correct shows for a specific date
+        /// </summary>
+        /// <param name="requestedDate">Requested Date</param>
+        /// <returns>Css Selector</returns>
         private string DetermineShowRowSelector(DateTime requestedDate)
         {
-            // TODO: Make more checks so we can't go tooo far out into the future
+            // TODO: Is it actually a week out or just Monday-Sunday?
 
             // Each day gets it's own day_divs with today being the first row
-            var dateDifference = requestedDate - EasternTimeZone.Today;
+            var today = EasternTimeZone.Today;
+            var dateDifference = requestedDate - today;
             var daysDifference = (int) dateDifference.TotalDays;
 
-            if (daysDifference < 0)
+            // FX only shows a week out from today
+            if (daysDifference < 0 || daysDifference > 6)
             {
                 throw new InvalidOperationException("Can't request a date prior to today");
             }
