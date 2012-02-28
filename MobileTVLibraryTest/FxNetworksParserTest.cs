@@ -13,19 +13,19 @@ namespace MobileTVLibraryTest
     [TestClass]
     public class FxNetworksParserTest
     {
-        ///// <summary>
-        /////A test for DetermineShowRowSelector
-        /////</summary>
-        //[TestMethod]
-        //public void DetermineShowRowSelectorTest()
-        //{
-        //    FxNetworksParser parser = new FxNetworksParser();
-        //    string selector = parser.DetermineShowRowSelector(EasternTimeZone.Today);
-        //    Assert.AreEqual(".day_divs:nth-child(1) li", selector);
+        /// <summary>
+        ///A test for DetermineShowRowSelector
+        ///</summary>
+        [TestMethod]
+        public void DetermineShowRowSelectorTest()
+        {
+            var parser = new FxNetworksParser_Accessor();
+            string selector = parser.DetermineShowRowSelector(EasternTimeZone.Today);
+            Assert.AreEqual(".day_divs:nth-child(1) li", selector);
 
-        //    selector = parser.DetermineShowRowSelector(EasternTimeZone.Today.AddDays(2));
-        //    Assert.AreEqual(".day_divs:nth-child(3) li", selector);
-        //}
+            selector = parser.DetermineShowRowSelector(EasternTimeZone.Today.AddDays(2));
+            Assert.AreEqual(".day_divs:nth-child(3) li", selector);
+        }
 
         /// <summary>
         ///A test for RetrieveShows
@@ -46,26 +46,26 @@ namespace MobileTVLibraryTest
             Assert.AreEqual("Tue Feb 28th 4:30pm", aShow.StartTime);
         }
 
-        //[TestMethod]
-        //public void DetermineLengthFromStyleWidthTest()
-        //{
-        //    FxNetworksParser parser = new FxNetworksParser();
-        //    var length = parser.DetermineLengthFromStyleWidth("width:176px");
-        //    Assert.AreEqual(30, length);
-        //    length = parser.DetermineLengthFromStyleWidth("width:1056px");
-        //    Assert.AreEqual(180, length);
-        //    length = parser.DetermineLengthFromStyleWidth("width:880px");
-        //    Assert.AreEqual(150, length);
-        //}
+        [TestMethod]
+        public void DetermineLengthFromStyleWidthTest()
+        {
+            var parser = new FxNetworksParser_Accessor();
+            var length = parser.DetermineLengthFromStyleWidth("width:176px");
+            Assert.AreEqual(30, length);
+            length = parser.DetermineLengthFromStyleWidth("width:1056px");
+            Assert.AreEqual(180, length);
+            length = parser.DetermineLengthFromStyleWidth("width:880px");
+            Assert.AreEqual(150, length);
+        }
 
-        //[TestMethod]
-        //public void DetermineShowNameTest()
-        //{
-        //    FxNetworksParser parser = new FxNetworksParser();
-        //    var name = parser.DetermineShowName(new HtmlNode(HtmlNodeType.Element, new HtmlDocument(), 0) { InnerHtml = "<span><p><strong>Paid Programming</strong></p></span>" });
-        //    Assert.AreEqual("Paid Programming", name);
-        //    name = parser.DetermineShowName(new HtmlNode(HtmlNodeType.Element, new HtmlDocument(), 0) { InnerHtml = "<span><p><strong>FX Movie</strong>&nbsp;The Happening</p></span>" });
-        //    Assert.AreEqual("The Happening", name);
-        //}
+        [TestMethod]
+        public void DetermineShowNameTest()
+        {
+            var parser = new FxNetworksParser_Accessor();
+            var name = parser.DetermineShowName(new HtmlNode(HtmlNodeType.Element, new HtmlDocument(), 0) { InnerHtml = "<span><p><strong>Paid Programming</strong></p></span>" });
+            Assert.AreEqual("Paid Programming", name);
+            name = parser.DetermineShowName(new HtmlNode(HtmlNodeType.Element, new HtmlDocument(), 0) { InnerHtml = "<span><p><strong>FX Movie</strong>&nbsp;The Happening</p></span>" });
+            Assert.AreEqual("The Happening", name);
+        }
     }
 }

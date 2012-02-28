@@ -43,7 +43,7 @@ namespace MobileTVLibrary.ChannelParsers
             // HACK: They don't stick the description in it's own element, so you need to grab it out from inside of the table cell
             var description = showRow.QuerySelector("td:nth-child(3) div").InnerHtml;
             description = description.Substring(description.IndexOf("<br class=\"lineHeight5\">", StringComparison.CurrentCulture) + 24);
-            description = description.Substring(0, description.Length - 5); // remove the final <br> tag
+            description = description.Substring(0, description.Length - 6); // remove the final <br> tag
             return description;
         }
 
