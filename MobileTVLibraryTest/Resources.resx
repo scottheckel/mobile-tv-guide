@@ -121,4 +121,529 @@
   <data name="Discovery" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Discovery.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
+  <data name="FXSchedule" xml:space="preserve">
+    <value>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"&gt;
+&lt;head&gt;
+	&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"/&gt;
+	&lt;title&gt;FX Networks&lt;/title&gt;
+	&lt;meta name="description" content="Official site. FX Network is the home of award-winning, original television. Shows include Sons of Anarchy, Justified, Terriers, It's Always Sunny in Philadelphia, Archer, The League, Louie." /&gt;
+	&lt;meta name="keywords" content=
+     "FX, FX network,FX networks,cable,channel,channels,television,tv, rescue me,Denis Leary, Michael Lombardi,Steven Pasquale,Daniel sunjata,Tatum o'neal,it's always sunny in Philadelphia,Charlie day,danny devito,sweet dee,kaitlin olson,glenn howerton,Rob Mcelhenney,Justified,Timothy Olyphant,Nick Searcy,Erica Tazel,Jacob Pitts,Joelle Carter,Natalie Zea,Walton Goggins,archer,Sterling Archer,Duchess,Malory,Agent Lana Kane,Cyril Figgis,ISIS,Adam Reed,Aisha Tyler,Chris Parnell,George Coe,H Jon Benjamin,Jessica Walter,Judy Greer,The League,Mark Duplass,Steve Rannazzisi,Nick Kroll,Paul Scheer,Jon Lajoie,Katie Aselton,Fantasy Football,Lights Out,Lights Out Leary,Warren Leight,Justin Zackham,Holt McCallany,Clark Johnson,Phillip Noyce,Ross Fineman,Louie,Louis C.K., Terriers, Ted Griffin,Shawn Ryan,Donal Logue,Michael Raymond-James" /&gt;
+	&lt;link rel="stylesheet" href="_ui/css/default.css" type="text/css" media="screen" charset="utf-8" /&gt;
+	&lt;link rel="stylesheet" href="_ui/css/common.css" type="text/css" media="screen" charset="utf-8" /&gt;
+	&lt;link rel="stylesheet" href="_ui/css/fxpages.css" type="text/css" media="screen" charset="utf-8" /&gt;
+	&lt;link rel="stylesheet" href="_ui/css/schedulepage.css" type="text/css" media="screen" charset="utf-8" /&gt;
+	&lt;link rel="stylesheet" type="text/css" href="_ui/css/print.css" media="print" /&gt;
+	&lt;link rel="icon" href="_ui/_images/favicon.gif" type="image/x-icon" /&gt;
+	&lt;link rel="stylesheet" type="text/css" href="_ui/css/sifr.css" media="screen" /&gt;
+	
+	&lt;!--[if lte IE 7]&gt;
+		&lt;link rel="stylesheet" href="_ui/css/fxpages_ie.css" type="text/css" media="screen" charset="utf-8" /&gt;
+		&lt;script type="text/javascript" charset="utf-8" src="_ui/js/iepngfix_tilebg.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;script src="_ui/js/sifr.js" type="text/javascript"&gt;&lt;/script&gt;
+	&lt;script src="_ui/js/sifr-config.js" type="text/javascript"&gt;&lt;/script&gt;
+	&lt;script type="text/javascript" charset="utf-8" src="_ui/js/prototype.js"&gt;&lt;/script&gt;
+    &lt;script type="text/javascript" src="_ui/js/scriptaculous.js"&gt;&lt;/script&gt;
+    &lt;script type="text/javascript" src="_ui/js/effects.js"&gt;&lt;/script&gt;
+    &lt;script type="text/javascript" charset="utf-8" src="_ui/js/fx.js"&gt;&lt;/script&gt;
+	&lt;script type="text/javascript" charset="utf-8" src="_ui/js/fx_schedule.js"&gt;&lt;/script&gt;
+	
+&lt;!-- SiteCatalyst code version: H.17. Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com --&gt;
+&lt;!-- &lt;script type="text/javascript" src="http:///js/s_code_analytics.js"&gt;&lt;/script&gt; --&gt;
+&lt;script type="text/javascript" src="//tealium.hs.llnwd.net/o43/utag/fxnetworks/main/prod/utag.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+
+//&lt;![CDATA[
+  	  s_analytics.pageName="fx:schedule:home"
+		s_analytics.prop6="fx:schedule"
+		s_analytics.prop7="fx:schedule:home"
+		s_analytics.prop8="fx:schedule:home"
+		s_analytics.prop9="fx:schedule:home"
+		s_analytics.prop15="section:schedule"
+		s_analytics.prop35=""
+		s_analytics.prop45="fx"
+		s_analytics.hier1="fx:schedule"
+		s_analytics.hier3="entertainment:fx:schedule"
+		/* Conversion Variables */
+		s_analytics.campaign=""
+		s_analytics.state=""
+		s_analytics.zip=""
+		s_analytics.events=""
+		s_analytics.products=""
+		s_analytics.purchaseID=""
+		s_analytics.eVar1=""
+		s_analytics.eVar2=""
+		s_analytics.eVar3=""
+		s_analytics.eVar4=""
+		s_analytics.eVar5=""
+	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+	/*s_analytics.t()*/
+	//]]&gt;     
+	&lt;/script&gt;
+	&lt;!-- End SiteCatalyst code version: H.17. --&gt;  
+&lt;/head&gt;
+
+&lt;body&gt;  
+    &lt;div id="wrapper"&gt;
+    	&lt;div id="content-container"&gt;
+            &lt;div id="header"&gt;
+                &lt;div id="logo"&gt;&lt;a href="/"&gt;FX&lt;/a&gt;&lt;/div&gt; &lt;!--[if !IE]&gt; /FX LOGO &lt;![endif]--&gt;
+                
+                &lt;div class="top-ad"&gt;
+                      &lt;script src="http://1c6e2.v.fwmrm.net/ad/g/1?nw=116450&amp;pvrn=1330359164&amp;csid=FX_schedule&amp;resp=ad;;ptgt=s&amp;envp=g_js&amp;slid=728x90slot&amp;w=728&amp;h=90" language="javascript"&gt;&lt;/script&gt;&lt;noscript&gt;&lt;iframe src="http://1c6e2.v.fwmrm.net/ad/g/1?nw=116450&amp;pvrn=1330359164&amp;csid=FX_schedule&amp;resp=ad;;ptgt=s&amp;envp=g_iframe&amp;slid=728x90slot&amp;w=728&amp;h=90" width="728" height="90" border="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;/noscript&gt;                      &lt;!--&lt;script language="JavaScript" src="http://ad.doubleclick.net/adj/fxnetwork/schedule;sz=728x90;ord=1330359164?" type="text/javascript"&gt;&lt;/script&gt;
+						&lt;noscript&gt;&lt;a href="http://ad.doubleclick.net/jump/fxnetwork/schedule;sz=728x90;ord=1330359164?" target="_blank"&gt;&lt;img src="http://ad.doubleclick.net/ad/fxnetwork/schedule;sz=728x90;ord=1330359164?" width="728" height="90" border="0" alt="" /&gt;&lt;/a&gt;
+						&lt;/noscript&gt;--&gt;
+                &lt;/div&gt; &lt;!--[if !IE]&gt; /top ad &lt;![endif]--&gt;
+                
+                &lt;div class="clear"&gt;&lt;!--[if !IE]&gt; clear &lt;![endif]--&gt;&lt;/div&gt;
+                
+				&lt;div class="nav-holder"&gt;
+					&lt;ul id="navigation"&gt;
+						&lt;li id="gn-watch-episodes" &gt;&lt;a href="javascript:void(0)"&gt;Watch Episodes&lt;/a&gt;&lt;/li&gt;
+						&lt;li id="gn-shows"&gt;&lt;a href="javascript:void(0)"&gt;Shows&lt;/a&gt;&lt;/li&gt;
+						&lt;li id="gn-movies"&gt;&lt;a href="movies-landing.php"&gt;Movies&lt;/a&gt;&lt;/li&gt;  
+					&lt;/ul&gt; &lt;!--[if !IE]&gt; /navigation &lt;![endif]--&gt;
+					
+		            &lt;ul id="subnavigation"&gt;
+    &lt;li&gt;&lt;a href="http://www.fxnetworks.com/schedule.php" class="schedule"&gt;Schedule&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://community.fxnetworks.com" class="community"&gt;Community&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.fxnetworks.com/mobile.php" class="mobile"&gt;Mobile&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="last"&gt;&lt;a href="http://shop.fxnetworks.com/index.php?v=fx&amp;ecid=PRF-TV2-400078&amp;pa=PRF-TV2-400078" class="shop"&gt;FX Shop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br style="clear:right" /&gt;
+&lt;ul id="user-controls"&gt;
+	&lt;li&gt;
+		&lt;a href="https://secure.fxnetworks.com/registration/reg.php?show=Generic" class="login"&gt;Login&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class="last"&gt;&lt;a href="https://secure.fxnetworks.com/registration/reg.php?show=Generic" class="register"&gt;Register&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;					
+					&lt;div id="savior1" style="display:none;"&gt;&lt;!--[if !IE]&gt; do not remove &lt;![endif]--&gt;&lt;/div&gt;
+					&lt;div id="savior2" style="display:none;"&gt;&lt;!--[if !IE]&gt; do not remove &lt;![endif]--&gt;&lt;/div&gt;
+					
+									
+		&lt;div id="episodes" class="closedNav" style="display:none"&gt;
+            &lt;div class="inner"&gt;
+                    &lt;ul style="width:230px; overflow: hidden;"&gt;
+						&lt;li&gt;&lt;a href="http://vod.fxnetworks.com/watch/ahs"&gt;American Horror Story&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="http://vod.fxnetworks.com/watch/archer"&gt;Archer&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="http://vod.fxnetworks.com/watch/sunny"&gt;It's Always Sunny in Philadelphia&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="http://vod.fxnetworks.com/watch/justified"&gt;Justified&lt;/a&gt;&lt;/li&gt;
+
+                    &lt;/ul&gt;
+                    &lt;ul style="float:left; width:120px; overflow: hidden;"&gt;
+						&lt;li&gt;&lt;a href="http://vod.fxnetworks.com/watch/theleague"&gt;The League&lt;/a&gt;&lt;/li&gt;
+						&lt;!--li&gt;&lt;a href="http://vod.fxnetworks.com/watch/lightsout"&gt;Lights Out&lt;/a&gt;&lt;/li--&gt;
+						&lt;li&gt;&lt;a href="http://vod.fxnetworks.com/watch/louie"&gt;Louie&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="http://vod.fxnetworks.com/watch/rescueme"&gt;Rescue Me&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="http://vod.fxnetworks.com/watch/soa"&gt;Sons of Anarchy&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;ul style="float:left; width:230px; overflow: hidden;"&gt;
+						&lt;li&gt;&lt;a href="http://vod.fxnetworks.com/watch/tuf"&gt;The Ultimate Fighter Live&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="http://vod.fxnetworks.com/watch/unsupervised"&gt;Unsupervised&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="http://vod.fxnetworks.com/watch/wilfred"&gt;Wilfred&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;div class="close" id="episodes-close"&gt;&lt;a href="#" class="close"&gt;&lt;!-- the shows subnav works --&gt;&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="action"&gt;&lt;a href="http://www.fxnetworks.com/episodes.php" class="more"&gt;see all episodes&lt;/a&gt;&lt;/div&gt;
+
+                &lt;/div&gt;
+				&lt;div class="bg"&gt;&lt;!-- --&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+             &lt;div id="shows-titles" class="closedNav" style="display:none"&gt;
+			 &lt;div class="inner"&gt;
+                    &lt;ul&gt;
+						&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/ahs"&gt;American Horror Story&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/archer/"&gt;Archer&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/sunny/"&gt;It's Always Sunny in Philadelphia&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/justified/"&gt;Justified&lt;/a&gt;&lt;/li&gt;
+
+                    &lt;/ul&gt;
+                    &lt;ul style="margin-left:-65px; width:120px"&gt;
+						&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/theleague/"&gt;The League&lt;/a&gt;&lt;/li&gt;
+						&lt;!--li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/lightsout/"&gt;Lights Out&lt;/a&gt;&lt;/li--&gt;
+						&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/louie/"&gt;Louie&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/rescueme/"&gt;Rescue Me&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/soa/"&gt;Sons of Anarchy&lt;/a&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                     &lt;ul style="margin-left:15px; width:110px;"&gt;
+						&lt;li style="line-height:16px; margin-top:5px;margin-bottom:9px;"&gt;&lt;a href="http://vod.fxnetworks.com/watch/tuf"&gt;The Ultimate Fighter Live&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/ufconfx/"&gt;UFC on FX&lt;/a&gt;&lt;/li&gt;						
+						&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/unsupervised/"&gt;Unsupervised&lt;/a&gt;&lt;/li&gt;
+						
+					&lt;/ul&gt;
+					&lt;ul style="margin-left:15px; width:130px;"&gt;
+						&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/wilfred/"&gt;Wilfred&lt;/a&gt;&lt;/li&gt;
+						&lt;li style="line-height:16px; margin-top:5px;margin-bottom:9px;"&gt;&lt;a href="http://www.fxnetworks.com/shows/howimetyourmother/"&gt;How I Met Your Mother&lt;/a&gt;&lt;/li&gt;
+						&lt;li style="line-height:16px; margin-top:5px;margin-bottom:9px;"&gt;&lt;a href="http://www.fxnetworks.com/shows/twoandahalfmen/"&gt;Two and a Half Men&lt;/a&gt;&lt;/li&gt;
+						&lt;!--li&gt;&lt;a href="http://www.fxnetworks.com/shows/thepractice/"&gt;The Practice&lt;/a&gt;&lt;/li--&gt;
+					&lt;/ul&gt;
+
+                    &lt;div class="close" id="gn-shows-close"&gt;&lt;a href="#" class="close"&gt;&lt;!-- the shows subnav works --&gt;&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="action"&gt;&lt;a href="http://www.fxnetworks.com/shows.php" class="more"&gt;see all shows&lt;/a&gt;&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class="bg"&gt;&lt;!-- --&gt;&lt;/div&gt;
+            &lt;/div&gt;				
+				&lt;/div&gt; &lt;!--[if !IE]&gt; /nav-holder &lt;![endif]--&gt;
+            &lt;/div&gt; &lt;!--[if !IE]&gt; /header &lt;![endif]--&gt;
+            
+            &lt;div class="clear"&gt;&lt;!--[if !IE]&gt; clear &lt;![endif]--&gt;&lt;/div&gt;
+            &lt;!--[if !IE]&gt; START OF MAIN PAGE CONTENT &lt;![endif]--&gt;
+            
+            &lt;div id="main-content"&gt;
+            	&lt;div id="scheduleHeader"&gt;
+	&lt;div id="leftBlock"&gt;
+		&lt;div id="scheduleTitle"&gt;
+			&lt;h3 class="sifr-head-light-large"&gt; Schedule&lt;/h3&gt; &lt;span class="sifr-head-dark showtime"&gt;| Showtimes for Feb 27th-Mar 11th&lt;/span&gt;
+		&lt;/div&gt;
+		&lt;div id="scheduleFunctions"&gt;
+			&lt;a href="javascript:printSchedule();" class="print-link"&gt;&lt;strong class="sifr-head-link"&gt;Print Schedule&lt;/strong&gt;&lt;/a&gt;
+			
+			&lt;a class="rss-link" id="rssLink"&gt;&lt;strong class="sifr-head-link"&gt;RSS Feed&lt;/strong&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	
+	&lt;div id="rightBlock"&gt;
+		&lt;ul&gt;					
+			&lt;li&gt;&lt;img src="_images/thisweek_tab_active.png" id="this_week_btn" class="active"   onclick="showThisSchedule()"&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;img src="_images/nextweek_tab.png" id="next_week_btn" class="inactive" onclick="showNextSchedule()"&gt;&lt;/li&gt;			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id="controls"&gt;
+	&lt;img id="prev_btn" src="_images/earlier2.png"&gt;
+		&lt;div id="timeShell"&gt;
+			&lt;div id="timeContainer"&gt;
+				&lt;ul&gt;
+					&lt;li&gt;12am&lt;/li&gt;
+					&lt;li&gt;12:30am&lt;/li&gt;
+					&lt;li&gt;1am&lt;/li&gt;
+					&lt;li&gt;1:30am&lt;/li&gt;
+					&lt;li&gt;2am&lt;/li&gt;
+					&lt;li&gt;2:30am&lt;/li&gt;
+					&lt;li&gt;3am&lt;/li&gt;
+					&lt;li&gt;3:30am&lt;/li&gt;
+					&lt;li&gt;4am&lt;/li&gt;
+					&lt;li&gt;4:30am&lt;/li&gt;
+					&lt;li&gt;5am&lt;/li&gt;
+					&lt;li&gt;5:30am&lt;/li&gt;
+					&lt;li&gt;6am&lt;/li&gt;
+					&lt;li&gt;6:30am&lt;/li&gt;
+					&lt;li&gt;7am&lt;/li&gt;
+					&lt;li&gt;7:30am&lt;/li&gt;
+					&lt;li&gt;8am&lt;/li&gt;
+					&lt;li&gt;8:30am&lt;/li&gt;
+					&lt;li&gt;9am&lt;/li&gt;
+					&lt;li&gt;9:30am&lt;/li&gt;
+					&lt;li&gt;10am&lt;/li&gt;
+					&lt;li&gt;10:30am&lt;/li&gt;
+					&lt;li&gt;11am&lt;/li&gt;
+					&lt;li&gt;11:30am&lt;/li&gt;
+					&lt;li&gt;12pm&lt;/li&gt;
+					&lt;li&gt;12:30pm&lt;/li&gt;
+					&lt;li&gt;1pm&lt;/li&gt;
+					&lt;li&gt;1:30pm&lt;/li&gt;
+					&lt;li&gt;2pm&lt;/li&gt;
+					&lt;li&gt;2:30pm&lt;/li&gt;
+					&lt;li&gt;3pm&lt;/li&gt;
+					&lt;li&gt;3:30pm&lt;/li&gt;
+					&lt;li&gt;4pm&lt;/li&gt;
+					&lt;li&gt;4:30pm&lt;/li&gt;
+					&lt;li&gt;5pm&lt;/li&gt;
+					&lt;li&gt;5:30pm&lt;/li&gt;
+					&lt;li&gt;6pm&lt;/li&gt;
+					&lt;li&gt;6:30pm&lt;/li&gt;
+					&lt;li&gt;7pm&lt;/li&gt;
+					&lt;li&gt;7:30pm&lt;/li&gt;
+					&lt;li&gt;8pm&lt;/li&gt;
+					&lt;li&gt;8:30pm&lt;/li&gt;
+					&lt;li&gt;9pm&lt;/li&gt;
+					&lt;li&gt;9:30pm&lt;/li&gt;
+					&lt;li&gt;10pm&lt;/li&gt;
+					&lt;li&gt;10:30pm&lt;/li&gt;
+					&lt;li&gt;11pm&lt;/li&gt;
+					&lt;li&gt;11:30pm&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;img id="next_btn" src="_images/later2.png"&gt;
+	
+	&lt;div class="clear"&gt;&lt;!--CLEAR--&gt;&lt;/div&gt;
+&lt;/div&gt; &lt;!-- /controls --&gt;
+
+&lt;div id="horizontalBlock"&gt;
+	&lt;div id="dayBlock"&gt;
+		&lt;ul&gt;
+			&lt;li id="todays_date" class="sifr-head-today this_date"&gt;Today&lt;/li&gt;
+			&lt;li class="sifr-head-day"&gt;Tue&lt;/li&gt;
+			&lt;li class="sifr-head-day"&gt;Wed&lt;/li&gt;
+			&lt;li class="sifr-head-day"&gt;Thu&lt;/li&gt;
+			&lt;li class="sifr-head-day"&gt;Fri&lt;/li&gt;
+			&lt;li class="sifr-head-day"&gt;Sat&lt;/li&gt;
+			&lt;li class="sifr-head-day"&gt;Sun&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/div&gt;
+
+	&lt;div id="scheduleShell"&gt;
+		&lt;div id="scheduleContainer"&gt;
+			&lt;div class="day_divs"&gt;&lt;ul&gt;&lt;li style="width:704px"&gt;&lt;div id="show_507557" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 12:00am&lt;/p&gt;&lt;span id="span_507557"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Grindhouse: Death Proof&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 02:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 02:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 03:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 03:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 04:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 04:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 05:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 05:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 06:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 06:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:1056px"&gt;&lt;div id="show_464327" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 07:00am&lt;/p&gt;&lt;span id="span_464327"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Changeling&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_411562" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 10:00am&lt;/p&gt;&lt;span id="span_411562"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Premonition&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_393528" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 12:00pm&lt;/p&gt;&lt;span id="span_393528"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Next&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_406824" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 2:00pm&lt;/p&gt;&lt;span id="span_406824"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Perfect Stranger&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_434945" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 4:00pm&lt;/p&gt;&lt;span id="span_434945"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;The Happening&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_501259" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 6:00pm&lt;/p&gt;&lt;span id="span_501259"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_486620" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 6:30pm&lt;/p&gt;&lt;span id="span_486620"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435854" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 7:00pm&lt;/p&gt;&lt;span id="span_435854"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435855" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 7:30pm&lt;/p&gt;&lt;span id="span_435855"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:1056px"&gt;&lt;div id="show_457451" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 8:00pm&lt;/p&gt;&lt;span id="span_457451"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Eagle Eye&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:1056px"&gt;&lt;div id="show_457451" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Mon Feb 27th 11:00pm&lt;/p&gt;&lt;span id="span_457451"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Eagle Eye&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/div&gt;&lt;div class="day_divs"&gt;&lt;ul&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 12:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 12:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 01:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 01:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 02:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 02:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 03:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 03:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 04:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 04:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 05:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 05:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 06:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 06:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_434945" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 07:00am&lt;/p&gt;&lt;span id="span_434945"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;The Happening&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_421819" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 09:00am&lt;/p&gt;&lt;span id="span_421819"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Eastern Promises&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:1056px"&gt;&lt;div id="show_395567" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 11:00am&lt;/p&gt;&lt;span id="span_395567"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;The Departed&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_436302" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 2:00pm&lt;/p&gt;&lt;span id="span_436302"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;21&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_501240" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 4:30pm&lt;/p&gt;&lt;span id="span_501240"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_501241" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 5:00pm&lt;/p&gt;&lt;span id="span_501241"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_486621" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 5:30pm&lt;/p&gt;&lt;span id="span_486621"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_501260" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 6:00pm&lt;/p&gt;&lt;span id="span_501260"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435856" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 6:30pm&lt;/p&gt;&lt;span id="span_435856"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435857" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 7:00pm&lt;/p&gt;&lt;span id="span_435857"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_474832" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 7:30pm&lt;/p&gt;&lt;span id="span_474832"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;X-Men Origins: Wolverine&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:352px"&gt;&lt;div id="show_429646" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 10:00pm&lt;/p&gt;&lt;span id="span_429646"&gt;&lt;p&gt;&lt;strong&gt;Justified&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:352px"&gt;&lt;div id="show_429646" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Tue Feb 28th 11:00pm&lt;/p&gt;&lt;span id="span_429646"&gt;&lt;p&gt;&lt;strong&gt;Justified&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/div&gt;&lt;div class="day_divs"&gt;&lt;ul&gt;&lt;li style="width:352px"&gt;&lt;div id="show_429645" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 12:00am&lt;/p&gt;&lt;span id="span_429645"&gt;&lt;p&gt;&lt;strong&gt;Justified&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:352px"&gt;&lt;div id="show_429646" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 01:00am&lt;/p&gt;&lt;span id="span_429646"&gt;&lt;p&gt;&lt;strong&gt;Justified&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:352px"&gt;&lt;div id="show_314831" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 02:00am&lt;/p&gt;&lt;span id="span_314831"&gt;&lt;p&gt;&lt;strong&gt;Rescue Me - Syndication&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 03:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 03:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 04:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 04:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 05:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 05:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 06:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 06:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:1232px"&gt;&lt;div id="show_390784" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 07:00am&lt;/p&gt;&lt;span id="span_390784"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;The Departed&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_436302" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 10:30am&lt;/p&gt;&lt;span id="span_436302"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;21&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_422541" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 1:00pm&lt;/p&gt;&lt;span id="span_422541"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;We Own the Night&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_474833" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 3:30pm&lt;/p&gt;&lt;span id="span_474833"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;X-Men Origins: Wolverine&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435856" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 6:00pm&lt;/p&gt;&lt;span id="span_435856"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435857" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 6:30pm&lt;/p&gt;&lt;span id="span_435857"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435858" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 7:00pm&lt;/p&gt;&lt;span id="span_435858"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435859" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 7:30pm&lt;/p&gt;&lt;span id="span_435859"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_459313" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 8:00pm&lt;/p&gt;&lt;span id="span_459313"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Role Models&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_487237" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Wed Feb 29th 10:00pm&lt;/p&gt;&lt;span id="span_487237"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Post Grad&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/div&gt;&lt;div class="day_divs"&gt;&lt;ul&gt;&lt;li style="width:704px"&gt;&lt;div id="show_487237" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 12:00am&lt;/p&gt;&lt;span id="span_487237"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Post Grad&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:352px"&gt;&lt;div id="show_314833" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 02:00am&lt;/p&gt;&lt;span id="span_314833"&gt;&lt;p&gt;&lt;strong&gt;Rescue Me - Syndication&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:352px"&gt;&lt;div id="show_314835" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 03:00am&lt;/p&gt;&lt;span id="span_314835"&gt;&lt;p&gt;&lt;strong&gt;Rescue Me - Syndication&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:352px"&gt;&lt;div id="show_320180" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 04:00am&lt;/p&gt;&lt;span id="span_320180"&gt;&lt;p&gt;&lt;strong&gt;Rescue Me - Syndication&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 05:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 05:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 06:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 06:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_377880" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 07:00am&lt;/p&gt;&lt;span id="span_377880"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;The Corruptor&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_422541" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 09:30am&lt;/p&gt;&lt;span id="span_422541"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;We Own the Night&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_353415" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 12:00pm&lt;/p&gt;&lt;span id="span_353415"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Grandma's Boy&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_484813" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 2:00pm&lt;/p&gt;&lt;span id="span_484813"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Miss March&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_459313" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 4:00pm&lt;/p&gt;&lt;span id="span_459313"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Role Models&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_486623" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 6:00pm&lt;/p&gt;&lt;span id="span_486623"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_486624" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 6:30pm&lt;/p&gt;&lt;span id="span_486624"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_486625" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 7:00pm&lt;/p&gt;&lt;span id="span_486625"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_486626" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 7:30pm&lt;/p&gt;&lt;span id="span_486626"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435860" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 8:00pm&lt;/p&gt;&lt;span id="span_435860"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435861" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 8:30pm&lt;/p&gt;&lt;span id="span_435861"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435862" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 9:00pm&lt;/p&gt;&lt;span id="span_435862"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435863" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 9:30pm&lt;/p&gt;&lt;span id="span_435863"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_516547" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 10:00pm&lt;/p&gt;&lt;span id="span_516547"&gt;&lt;p&gt;&lt;strong&gt;Archer&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_516574" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 10:30pm&lt;/p&gt;&lt;span id="span_516574"&gt;&lt;p&gt;&lt;strong&gt;Unsupervised&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_516547" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 11:00pm&lt;/p&gt;&lt;span id="span_516547"&gt;&lt;p&gt;&lt;strong&gt;Archer&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_516574" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Thu Mar 1st 11:30pm&lt;/p&gt;&lt;span id="span_516574"&gt;&lt;p&gt;&lt;strong&gt;Unsupervised&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/div&gt;&lt;div class="day_divs"&gt;&lt;ul&gt;&lt;li style="width:176px"&gt;&lt;div id="show_516571" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 12:00am&lt;/p&gt;&lt;span id="span_516571"&gt;&lt;p&gt;&lt;strong&gt;Unsupervised&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_516548" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 12:30am&lt;/p&gt;&lt;span id="span_516548"&gt;&lt;p&gt;&lt;strong&gt;Archer&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_516547" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 01:00am&lt;/p&gt;&lt;span id="span_516547"&gt;&lt;p&gt;&lt;strong&gt;Archer&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_516574" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 01:30am&lt;/p&gt;&lt;span id="span_516574"&gt;&lt;p&gt;&lt;strong&gt;Unsupervised&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 02:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 02:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 03:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 03:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 04:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 04:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 05:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 05:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 06:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 06:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_484813" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 07:00am&lt;/p&gt;&lt;span id="span_484813"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Miss March&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_172851" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 09:00am&lt;/p&gt;&lt;span id="span_172851"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Hollywood Homicide&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_319436" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 11:30am&lt;/p&gt;&lt;span id="span_319436"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;XXX: State of the Union&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_172827" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 1:30pm&lt;/p&gt;&lt;span id="span_172827"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Tears of The Sun&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_486627" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 4:00pm&lt;/p&gt;&lt;span id="span_486627"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_486628" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 4:30pm&lt;/p&gt;&lt;span id="span_486628"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435862" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 5:00pm&lt;/p&gt;&lt;span id="span_435862"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435863" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 5:30pm&lt;/p&gt;&lt;span id="span_435863"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:1056px"&gt;&lt;div id="show_499257" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 6:00pm&lt;/p&gt;&lt;span id="span_499257"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Star Trek&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_510954" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 9:00pm&lt;/p&gt;&lt;span id="span_510954"&gt;&lt;p&gt;&lt;strong&gt;UFC on FX: Fight Night LIVE&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_430398" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Fri Mar 2nd 11:00pm&lt;/p&gt;&lt;span id="span_430398"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Hitman&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/div&gt;&lt;div class="day_divs"&gt;&lt;ul&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 12:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 12:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_510954" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 01:00am&lt;/p&gt;&lt;span id="span_510954"&gt;&lt;p&gt;&lt;strong&gt;UFC on FX: Fight Night LIVE&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_319436" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 03:00am&lt;/p&gt;&lt;span id="span_319436"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;XXX: State of the Union&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 05:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 05:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 06:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 06:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_172827" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 07:00am&lt;/p&gt;&lt;span id="span_172827"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Tears of The Sun&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:1232px"&gt;&lt;div id="show_411563" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 09:30am&lt;/p&gt;&lt;span id="span_411563"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Live Free or Die Hard&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_430398" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 1:00pm&lt;/p&gt;&lt;span id="span_430398"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Hitman&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:1056px"&gt;&lt;div id="show_499257" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 3:00pm&lt;/p&gt;&lt;span id="span_499257"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Star Trek&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_501242" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 6:00pm&lt;/p&gt;&lt;span id="span_501242"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_501243" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 6:30pm&lt;/p&gt;&lt;span id="span_501243"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_486629" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 7:00pm&lt;/p&gt;&lt;span id="span_486629"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_501261" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 7:30pm&lt;/p&gt;&lt;span id="span_501261"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_501262" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 8:00pm&lt;/p&gt;&lt;span id="span_501262"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_486632" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 8:30pm&lt;/p&gt;&lt;span id="span_486632"&gt;&lt;p&gt;&lt;strong&gt;How I Met Your Mother&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435864" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 9:00pm&lt;/p&gt;&lt;span id="span_435864"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435865" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 9:30pm&lt;/p&gt;&lt;span id="span_435865"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435866" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 10:00pm&lt;/p&gt;&lt;span id="span_435866"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435867" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 10:30pm&lt;/p&gt;&lt;span id="span_435867"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_495084" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 11:00pm&lt;/p&gt;&lt;span id="span_495084"&gt;&lt;p&gt;&lt;strong&gt;Louie&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_498837" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sat Mar 3rd 11:30pm&lt;/p&gt;&lt;span id="span_498837"&gt;&lt;p&gt;&lt;strong&gt;Louie&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/div&gt;&lt;div class="day_divs"&gt;&lt;ul&gt;&lt;li style="width:176px"&gt;&lt;div id="show_498813" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 12:00am&lt;/p&gt;&lt;span id="span_498813"&gt;&lt;p&gt;&lt;strong&gt;Archer&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_516543" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 12:30am&lt;/p&gt;&lt;span id="span_516543"&gt;&lt;p&gt;&lt;strong&gt;Archer&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435864" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 01:00am&lt;/p&gt;&lt;span id="span_435864"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435865" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 01:30am&lt;/p&gt;&lt;span id="span_435865"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_495084" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 02:00am&lt;/p&gt;&lt;span id="span_495084"&gt;&lt;p&gt;&lt;strong&gt;Louie&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_498837" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 02:30am&lt;/p&gt;&lt;span id="span_498837"&gt;&lt;p&gt;&lt;strong&gt;Louie&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_498813" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 03:00am&lt;/p&gt;&lt;span id="span_498813"&gt;&lt;p&gt;&lt;strong&gt;Archer&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_516543" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 03:30am&lt;/p&gt;&lt;span id="span_516543"&gt;&lt;p&gt;&lt;strong&gt;Archer&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435866" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 04:00am&lt;/p&gt;&lt;span id="span_435866"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_435867" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 04:30am&lt;/p&gt;&lt;span id="span_435867"&gt;&lt;p&gt;&lt;strong&gt;Two and a Half Men&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 05:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 05:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 06:00am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:176px"&gt;&lt;div id="show_" class="tv_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 06:30am&lt;/p&gt;&lt;span id="span_"&gt;&lt;p&gt;&lt;strong&gt;Paid Programming&lt;/strong&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:1232px"&gt;&lt;div id="show_411563" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 07:00am&lt;/p&gt;&lt;span id="span_411563"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Live Free or Die Hard&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_484262" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 10:30am&lt;/p&gt;&lt;span id="span_484262"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;The Taking of Pelham 1 2 3&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:704px"&gt;&lt;div id="show_434208" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 1:00pm&lt;/p&gt;&lt;span id="span_434208"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;Jumper&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_453764" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 3:00pm&lt;/p&gt;&lt;span id="span_453764"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;The Incredible Hulk&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_364462" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 5:30pm&lt;/p&gt;&lt;span id="span_364462"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;X-Men 3: The Last Stand&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_474832" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 8:00pm&lt;/p&gt;&lt;span id="span_474832"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;X-Men Origins: Wolverine&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li style="width:880px"&gt;&lt;div id="show_474833" class="movie_block" onclick="createShowPopup(this)"&gt;&lt;p style="display:none;"&gt;Sun Mar 4th 10:30pm&lt;/p&gt;&lt;span id="span_474833"&gt;&lt;p&gt;&lt;strong&gt;FX Movie&lt;/strong&gt;&amp;nbsp;X-Men Origins: Wolverine&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/div&gt;		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;						&lt;div style="position: relative; top: -15px; font-size: 14px; left: 325px;"&gt;Check local listing times for sports and live events. All other program times are Eastern and Pacific&lt;/div&gt;
+            &lt;/div&gt;&lt;!--[if !IE]&gt; /MAIN-CONTENT &lt;![endif]--&gt;
+            
+            &lt;!--[if !IE]&gt; START OF PROMO ROW &lt;![endif]--&gt;
+            &lt;div class="promo-row noborder"&gt;
+				
+          &lt;script type="text/javascript" charset="utf-8"&gt;
+         	var passedDate = "2012-02-26";
+                	
+         	&lt;/script&gt;
+         	&lt;script type="text/javascript" charset="utf-8"&gt;
+         	var finalFile = "_fragments/schedule-page-promos/schedule-page-promos-2012-02-26.php";
+         	         	&lt;/script&gt;
+         	
+&lt;div class="promo-wtitle"&gt;
+&lt;h3 class="sifr-head-light"&gt;Unsupervised&lt;/h3&gt;
+&lt;div class="promo-block"&gt;
+&lt;a href="http://www.fxnetworks.com/shows/originals/unsupervised/downloads.php"&gt;&lt;img src="_images/promos/unsupervised_downloads_PromoLarge.jpg" alt="Promo"&gt;&lt;/a&gt;
+&lt;div class="promo-info"&gt;
+&lt;a href="http://www.fxnetworks.com/shows/originals/unsupervised/downloads.php"&gt;Downloads&lt;/a&gt;
+&lt;p&gt;Get wallpapers, screensavers, Twitter skins and the season one poster.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;a href="http://www.fxnetworks.com/shows/originals/unsupervised/downloads.php" class="more"&gt;Learn More&lt;/a&gt;
+&lt;/div&gt;&lt;div class="promo-wtitle"&gt;
+&lt;h3 class="sifr-head-light"&gt;Justified Tweets&lt;/h3&gt;
+&lt;div class="promo-block"&gt;
+&lt;a href="http://www.fxnetworks.com/shows/originals/justified/tweets.php"&gt;&lt;img src="_images/promos/JustifiedS03_tweets_promoLarge.jpg" alt="Promo"&gt;&lt;/a&gt;
+&lt;div class="promo-info"&gt;
+&lt;a href="http://www.fxnetworks.com/shows/originals/justified/tweets.php"&gt;Justified  &lt;/a&gt;
+&lt;p&gt;Watch and tweet with other Justified fans. Use your tablet, smartphone or laptop.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;a href="http://www.fxnetworks.com/shows/originals/justified/tweets.php" class="more"&gt;Learn More&lt;/a&gt;
+&lt;/div&gt;&lt;div class="promo-wtitle last"&gt;
+&lt;h3 class="sifr-head-light"&gt;FXM&lt;/h3&gt;
+&lt;div class="promo-block"&gt;
+&lt;a href="http://www.fxnetworks.com/fxm/"&gt;&lt;img src="_images/promos/fxm_logo_largePromo.jpg" alt="Promo"&gt;&lt;/a&gt;
+&lt;div class="promo-info"&gt;
+&lt;a href="http://www.fxnetworks.com/fxm/"&gt;Movies &amp;amp; Originals&lt;/a&gt;
+&lt;p&gt;FXM. The Future of Features.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;a href="http://www.fxnetworks.com/fxm/" class="more"&gt;Learn More&lt;/a&gt;
+&lt;/div&gt;
+            	&lt;div class="clear"&gt;&lt;!--[if !IE]&gt; clear &lt;![endif]--&gt;&lt;/div&gt;
+            &lt;/div&gt; &lt;!--[if !IE]&gt; /Promo-row &lt;![endif]--&gt;
+            
+		&lt;/div&gt; &lt;!--[if !IE]&gt; /Content-container &lt;![endif]--&gt;
+    &lt;/div&gt; &lt;!--[if !IE]&gt; /wrapper &lt;![endif]--&gt;
+    
+    &lt;div class="clear"&gt;&lt;!--[if !IE]&gt; clear &lt;![endif]--&gt;&lt;/div&gt;
+    
+    &lt;div style="width: 100%; text-align: left; clear:both;"&gt;
+    	
+&lt;div id="footer"&gt;
+&lt;script src="http://www.fxnetworks.com/_ui/js/popups.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;img class="footer-logo" src="http://www.fxnetworks.com/_ui/_images/nobox.png" alt="FX Logo" /&gt;
+    &lt;div class="inner"&gt;
+        &lt;div class="fx-show-nav"&gt;
+            &lt;h2&gt;fx.com navigation&lt;/h2&gt;
+            &lt;div id="fx-shows"&gt;
+                &lt;h3&gt;FX Shows&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;ul&gt;
+				&lt;li&gt;&lt;a href="#" onClick="new Popup({url:'http://fx.channelfinder.net/start.asp',width:'540',height:'500'});"&gt;Get FXHD and FXVOD&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/ahs/"&gt;American Horror Story&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/archer/"&gt;Archer&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/sunny/"&gt;It's Always Sunny In Philadelphia&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/justified/"&gt;Justified&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/theleague/"&gt;The League&lt;/a&gt;&lt;/li&gt;
+				&lt;!--li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/lightsout/"&gt;Lights Out&lt;/a&gt;&lt;/li--&gt;
+				&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/louie/"&gt;Louie&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/rescueme/"&gt;Rescue Me&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/soa/"&gt;Sons of Anarchy&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="http://vod.fxnetworks.com/watch/tuf"&gt;The Ultimate Fighter Live&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/ufconfx/"&gt;UFC on FX&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/unsupervised/"&gt;Unsupervised&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/originals/wilfred/"&gt;Wilfred&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="http://www.fxnetworks.com/?page=howimetyourmother"&gt;How I Met Your Mother&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.fxnetworks.com/shows/twoandahalfmen"&gt;Two and a Half Men&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.fxnetworks.com/?page=movies"&gt;Movies on FX&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://shop.fxnetworks.com/index.php?v=fx&amp;ecid=PRF-TV2-400077&amp;pa=PRF-TV2-400077"&gt;FX Shop&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.facebook.com/FX"&gt;FX on Facebook&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://twitter.com/fxnetworks"&gt;FX on Twitter&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://comic-con.blogs.fxnetworks.com/"&gt;FX at Comic-Con 2011&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+
+        &lt;div class="fx-devices"&gt;
+            &lt;div id="fx-devices"&gt;
+                &lt;h3&gt;Devices&lt;/h3&gt;
+            &lt;/div&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://www.fxnetworks.com/iphone"&gt;FX for your iPhone&lt;/a&gt; / &lt;a href="http://www.fxnetworks.com/blackberry"&gt;Blackberry&lt;/a&gt; / &lt;a href="http://www.fxnetworks.com/android"&gt;Android&lt;/a&gt; / &lt;a href="http://www.fxnetworks.com/windowsphone"&gt;Windows Phone&lt;/a&gt;&lt;br&gt; &gt; &lt;a href="http://www.fxnetworks.com/mobile.php"&gt;Learn More&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+
+        &lt;div class="fx-show-nav nav-btm" style="width:1000px"&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="http://www.fxnetworks.com/registration/reg.php?show=Generic"&gt;Profile&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="mailto:user@fxnetworks.com"&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.foxflash.com/div.php/main/page"&gt;Press&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.foxcareers.com/"&gt;Jobs&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.fxnetworks.com/html/ratings.php"&gt;TV Rating Guide&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.controlyourtv.org/"&gt;TV Control&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.fxnetworks.com/html/privacy.php"&gt;Privacy Policy (Updated)&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.fxnetworks.com/html/terms.php"&gt;Terms of Use&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.fxnetworks.com/html/privacy.php#advertising-choices"&gt;Ad Choices&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+
+		    &lt;div class="legal" style="clear:both"&gt;
+				&lt;span class="copyright"&gt;&amp;copy;
+				&lt;script type="text/javascript"&gt;
+					var currentTime = new Date()
+					document.write(currentTime.getFullYear())
+				&lt;/script&gt;
+				FX Networks, LLC All Rights Reserved&lt;/span&gt;
+				&lt;script type="text/javascript"&gt;
+				if(window.location.hostname.split('.')[0] == 'vod' || window.location.hostname.split('.')[0] == 'vodqa')
+					document.write('&lt;a href="http://www.controlyourtv.org/#Control/TVRatings.aspx" target="_blank"&gt;&lt;img id="tvRating" src="http://www.fxnetworks.com/global/microsite/images/rating-tvma-white.png" alt="" /&gt;&lt;/a&gt;');
+				&lt;/script&gt;
+            &lt;/div&gt;
+			&lt;br/&gt;&lt;br/&gt;
+			&lt;!-- #COPYRIGHT --&gt;
+        &lt;/div&gt; &lt;!-- #fx-show nav nav-btm --&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- /#footer --&gt;    
+    &lt;/div&gt;&lt;!--[if !IE]&gt; /footer container / needed for a ie issue &lt;![endif]--&gt;
+
+    &lt;iframe src="schedule-print.php" id="print_frame" name="print_frame"&gt;&lt;/iframe&gt;
+	
+	
+&lt;!--[if !IE]&gt; #JAVASCRIPT &lt;![endif]--&gt;    
+&lt;script type="text/javascript" charset="utf-8"&gt;	
+	document.observe("dom:loaded", initSchedule);    
+	document.observe("dom:loaded",FX.Shows.init);     
+	document.observe("dom:loaded", setInitialLocation);
+&lt;/script&gt;
+&lt;!--[if !IE]&gt; #END JAVASCRIPT &lt;![endif]--&gt;
+    &lt;script language="Javascript"&gt;
+document.observe("dom:loaded", function() {
+ $('rssLink').observe('click', openRSSWindow);
+ $('closeRSSWindow').observe('click', closeRSSWindow);
+});
+function openRSSWindow(event)
+{
+	var newDivX = Event.pointerX(event);
+	var newDivY = Event.pointerY(event);
+	
+	var modal = $('rssPopup');
+	var rssLink = $('rssLink');
+	
+
+	onresizeHandler();	
+	//modal.style.left = /*"162px";*/ (newDivX - 100) + "px";
+	//modal.style.top = /*"679px";*/ newDivY+ "px";
+	modal.show();
+	return false;
+	
+}
+function closeRSSWindow(event)
+{
+	$('rssPopup').hide();
+} 
+
+window.onresize = onresizeHandler;
+
+function onresizeHandler() {
+
+	var modal = $('rssPopup');
+	var rssLink = $('rssLink');
+	
+	var rssPopupID = document.getElementById('rssPopup');
+	var rssLinkID = document.getElementById('rssLink');
+	
+	var pos = getPosition(rssLinkID);
+	
+	var top = pos.top + 4; 
+	var left = pos.left - 215;
+	
+	if(document.location.pathname.indexOf("movies-landing") != -1)
+	{
+		top = pos.top + 24; 
+		left = pos.left + 65;
+	}
+
+	modal.style.top = top + "px";
+	modal.style.left = left + "px";
+}
+
+function getPosition(elt) {
+	var pos = {top:0,left:0};
+	do {
+		pos.top += elt.offsetTop;
+		pos.left += elt.offsetLeft;
+		elt = elt.offsetParent;
+	} while (elt);
+	return pos;
+};
+
+&lt;/script&gt;
+					
+					
+&lt;style type="text/css"&gt;
+	#rssLink {cursor: pointer;}
+	#rssPopup {z-index: 200; position: absolute; top: 0px; left: 0px; text-align: left; }
+	#rssPopupInterior { width: 200px; background: #000000; padding: 7px; border: 2px solid #2890B7; float:left;clear:left;display:inline;}
+	#closeRSSWindow {position: relative; left: 203px; top: 13px; cursor: pointer;float:left;display:inline;}
+	/*#closeRSSWindow {position: absolute; left: 200px; top: 0; margin-top: -15px; display:inline; cursor: pointer;}*/
+	#rssPopup .learnmorelink {font-size: 10px;}
+&lt;/style&gt;
+&lt;div id="rssPopup" style="display: none;"&gt;
+	&lt;div id="closeRSSWindow"&gt;&lt;img src="_ui/_images/bttn-close.png" /&gt;&lt;/div&gt;
+	&lt;div id="rssPopupInterior"&gt;
+		&lt;!--&lt;div id="closeRSSWindow"&gt;&lt;img src="_ui/_images/bttn-close.png" /&gt;&lt;/div&gt;--&gt;
+		&lt;img src="_ui/_images/rss/popupheader.gif" alt="FX RSS Feeds" border="0" /&gt;
+		&lt;a href="primetime_schedule_rss.php"&gt;&lt;img src="_ui/_images/rss/rss_icon_small.gif" /&gt; Monthly Schedule&lt;/a&gt;
+		&lt;br /&gt;
+		&lt;a href="movies_rss.php"&gt;&lt;img src="_ui/_images/rss/rss_icon_small.gif" /&gt; Monthly Movie Schedule&lt;/a&gt;
+		&lt;br /&gt;
+		&lt;a href="home/tonight_rss.php"&gt;&lt;img src="_ui/_images/rss/rss_icon_small.gif" /&gt; Tonight on FX&lt;/a&gt;
+		&lt;br /&gt;
+		&lt;a href="home/movies_tonight_rss.php"&gt;&lt;img src="_ui/_images/rss/rss_icon_small.gif" /&gt; Movies on FX Tonight&lt;/a&gt;
+		&lt;br /&gt;&lt;br /&gt;
+		Add to:
+		&lt;br /&gt;&lt;a href="http://www.google.com/ig/add?feedurl=http://www.fxnetworks.com/home/tonight_rss.php"&gt;&lt;img src="_ui/_images/rss/google_icon_small.jpg" /&gt; My iGoogle&lt;/a&gt;
+		&lt;br /&gt;
+		&lt;a href="http://add.my.yahoo.com/rss?url=http://www.fxnetworks.com/home/tonight_rss.php"&gt;&lt;img src="_ui/_images/rss/yahoo_icon_small.gif" /&gt; My Yahoo&lt;/a&gt;
+		&lt;br /&gt;
+		&lt;img src="_ui/_images/rss/small_rarr.gif" /&gt;&lt;a href="rss-listing.php" class="learnmorelink"&gt;Learn More about FX RSS feeds&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;	&lt;!--Global Include --&gt;
+	&lt;!-- START Nielsen//NetRatings SiteCensus V5.3 --&gt;
+&lt;!-- COPYRIGHT 2007 Nielsen//NetRatings --&gt;
+&lt;script type="text/javascript"&gt;
+	var _rsCI="us-fxnetworks";
+	var _rsCG="0";
+	var _rsDN="//secure-us.imrworldwide.com/";
+	var _rsPLfl=0;
+	var _rsSE=1;
+	var _rsSM=1.0;
+&lt;/script&gt;
+&lt;script type="text/javascript" src="//secure-us.imrworldwide.com/v53.js"&gt;&lt;/script&gt;
+&lt;noscript&gt;
+	&lt;div&gt;&lt;img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-fxnetworks&amp;amp;cg=0&amp;cc=1" alt=""/&gt;&lt;/div&gt;
+&lt;/noscript&gt;
+&lt;!-- END Nielsen//NetRatings SiteCensus V5.3 --&gt;
+	
+
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
 </root>

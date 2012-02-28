@@ -105,11 +105,47 @@ namespace MobileTVLibraryTest {
         ///	
         ///	
         ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
+        ///	
         /// [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Discovery {
             get {
                 return ResourceManager.GetString("Discovery", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;        ///
+        ///&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; lang=&quot;en&quot; xml:lang=&quot;en&quot;&gt;        ///
+        ///&lt;head&gt;        ///
+        ///	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;/&gt;        ///
+        ///	&lt;title&gt;FX Networks&lt;/title&gt;        ///
+        ///	&lt;meta name=&quot;description&quot; content=&quot;Official site. FX Network is the home of award-winning, original television. Shows include Sons of Anarchy, Justified, Terriers, It&apos;s Always Sunny in Philadelphia, Archer,  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string FXSchedule {
+            get {
+                return ResourceManager.GetString("FXSchedule", resourceCulture);
             }
         }
     }

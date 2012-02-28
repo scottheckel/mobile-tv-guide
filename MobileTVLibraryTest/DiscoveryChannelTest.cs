@@ -1,4 +1,5 @@
-﻿using MobileTVLibrary.ChannelParsers;
+﻿using System.Linq;
+using MobileTVLibrary.ChannelParsers;
 using MobileTVLibrary.Services.TvGuides;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
@@ -26,8 +27,18 @@ namespace MobileTVLibraryTest
         {
             var parser = new DiscoveryChannel();
             var day = new DateTime();
-            var actual = parser.RetrieveShows(new DiscoveryChannelService(day));
-            Assert.Inconclusive("Verify the correctness of this test method.");
+            var result = parser.RetrieveShows(new FakeChannelService(Resources.Discovery));
+            Assert.IsNotNull(result);
+            Assert.AreEqual(34, result.Count());
+
+            var aShow = result.First();
+            Assert.AreEqual("Discovery", aShow.ChannelName);
+            Assert.AreEqual("Australian Outback: The First Elimination", aShow.EpisodeTitle);
+            Assert.AreEqual("After hauling oversized loads across the remote and grueling unpaved roads of the Australian Outback, the truckers face elimination where the two weakest are sent packing. Only the toughest truckers will survive.", aShow.Description);
+            Assert.AreEqual(60, aShow.Length);
+            Assert.AreEqual("World's Toughest Trucker - (World's Toughest Trucker)", aShow.Name);
+            Assert.AreEqual("12:00am", aShow.StartTime);
+            
         }
     }
 }
