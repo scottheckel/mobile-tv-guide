@@ -11,7 +11,7 @@ namespace MobileTVLibrary.ChannelParsers
     /// <summary>
     /// Parses Discovery Channel's Schedule and other related networks like Animal Planet
     /// </summary>
-    public class DiscoveryChannel : IChannelParser
+    public class DiscoveryChannelParser : IChannelParser
     {
         /// <summary>
         /// Retrieve the Show list based on the provided service

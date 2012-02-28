@@ -59,9 +59,13 @@
     </CodeAnalysisDependentAssemblyPaths>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DiscoveryChannelTest.cs" />
-    <Compile Include="FakeChannelService.cs" />
-    <Compile Include="FxNetworksParserTest.cs" />
+    <Compile Include="ChannelParsers\AMCTvParserTest.cs" />
+    <Compile Include="ChannelParsers\ComedyCentralParserTest.cs" />
+    <Compile Include="ChannelParsers\DiscoveryChannelParserTest.cs" />
+    <Compile Include="ChannelParsers\FakeChannelService.cs" />
+    <Compile Include="ChannelParsers\FxNetworksParserTest.cs" />
+    <Compile Include="ChannelParsers\MTVParserTest.cs" />
+    <Compile Include="ChannelParsers\TNTParserTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -74,9 +78,6 @@
       <Project>{309A2E5C-0850-4F9B-8D89-C595F4380842}</Project>
       <Name>MobileTVLibrary</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Discovery.txt" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources.resx">

@@ -7,7 +7,7 @@ using MobileTVLibrary.Models;
 using System.Collections.Generic;
 using MobileTVLibrary.Services.Channels;
 
-namespace MobileTVLibraryTest
+namespace MobileTVLibraryTest.ChannelParsers
 {
     
     
@@ -16,7 +16,7 @@ namespace MobileTVLibraryTest
     ///to contain all DiscoveryChannelTest Unit Tests
     ///</summary>
     [TestClass()]
-    public class DiscoveryChannelTest
+    public class DiscoveryChannelParserTest
     {
 
         /// <summary>
@@ -25,9 +25,9 @@ namespace MobileTVLibraryTest
         [TestMethod()]
         public void RetrieveShowsTest()
         {
-            var parser = new DiscoveryChannel();
+            var parser = new DiscoveryChannelParser();
             var day = new DateTime();
-            var result = parser.RetrieveShows(new FakeChannelService(Resources.Discovery));
+            var result = parser.RetrieveShows(new FakeChannelService(Resources.DiscoverySchedule));
             Assert.IsNotNull(result);
             Assert.AreEqual(34, result.Count());
 

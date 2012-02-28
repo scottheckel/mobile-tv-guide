@@ -4,7 +4,7 @@ using MobileTVLibrary.ChannelParsers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MobileTVLibrary.Helpers;
 
-namespace MobileTVLibraryTest
+namespace MobileTVLibraryTest.ChannelParsers
 {
     /// <summary>
     ///This is a test class for FxNetworksParserTest and is intended

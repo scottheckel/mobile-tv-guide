@@ -1,7 +1,7 @@
 ﻿using HtmlAgilityPack;
 using MobileTVLibrary.Services.Channels;
 
-namespace MobileTVLibraryTest
+namespace MobileTVLibraryTest.ChannelParsers
 {
     public class FakeChannelService : IChannelService
     {

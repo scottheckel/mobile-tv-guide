@@ -49,9 +49,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ChannelParsers\DiscoveryChannel.cs" />
+    <Compile Include="ChannelParsers\AMCTvParser.cs" />
+    <Compile Include="ChannelParsers\ComedyCentralParser.cs" />
+    <Compile Include="ChannelParsers\DiscoveryChannelParser.cs" />
     <Compile Include="ChannelParsers\FxNetworksParser.cs" />
     <Compile Include="ChannelParsers\IChannelParser.cs" />
+    <Compile Include="ChannelParsers\MTVParser.cs" />
+    <Compile Include="ChannelParsers\TNTParser.cs" />
     <Compile Include="Helpers\EasternTimeZone.cs" />
     <Compile Include="Models\Category.cs" />
     <Compile Include="Models\Factories\GuideFactory.cs" />
@@ -62,9 +66,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\IRepository.cs" />
     <Compile Include="Repositories\SqlShowRepository.cs" />
+    <Compile Include="Services\Channels\AMCTvService.cs" />
+    <Compile Include="Services\Channels\ComedyCentralService.cs" />
     <Compile Include="Services\Channels\DiscoveryChannelService.cs" />
     <Compile Include="Services\Channels\FxNetworksService.cs" />
     <Compile Include="Services\Channels\IChannelService.cs" />
+    <Compile Include="Services\Channels\MTVService.cs" />
+    <Compile Include="Services\Channels\TNTService.cs" />
     <Compile Include="Services\TvGuides\ITvGuideService.cs" />
     <Compile Include="Services\TvGuides\TvRage.cs" />
   </ItemGroup>

@@ -105,33 +105,11 @@ namespace MobileTVLibraryTest {
         ///	
         ///	
         ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
-        ///	
         /// [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string Discovery {
+        internal static string DiscoverySchedule {
             get {
-                return ResourceManager.GetString("Discovery", resourceCulture);
+                return ResourceManager.GetString("DiscoverySchedule", resourceCulture);
             }
         }
         
